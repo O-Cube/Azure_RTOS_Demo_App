@@ -144,7 +144,7 @@ void tx_application_define(void *first_unused_memory)
     /* Allocate the stack for thread 7.  */
     tx_byte_allocate(&byte_pool_0, (VOID **)&pointer, DEMO_STACK_SIZE, TX_NO_WAIT);
 
-    tx_thread_create(&thread_7, "thread 07", thread_6_and_7_entry, 7, pointer, DEMO_STACK_SIZE, 8, 8, TX_NO_TIME_SLICE,
+    tx_thread_create(&thread_7, "thread 7", thread_6_and_7_entry, 7, pointer, DEMO_STACK_SIZE, 8, 8, TX_NO_TIME_SLICE,
                      TX_AUTO_START);
 
     /* Allocate the message queue.  */
