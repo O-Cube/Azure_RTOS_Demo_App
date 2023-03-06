@@ -1,89 +1,89 @@
 ###############################################################################
 #
-# IAR ELF Linker V9.32.1.338/W64 for ARM                  05/Mar/2023  21:01:43
+# IAR ELF Linker V9.32.1.338/W64 for ARM                  06/Mar/2023  14:49:43
 # Copyright 2007-2022 IAR Systems AB.
 #
 #    Output file  =
 #        C:\Users\obed.oyandut\OneDrive - D.Med Consulting
-#        GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\threadx_demo.out
+#        GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\debug\threadx_demo.out
 #    Map file     =
 #        C:\Users\obed.oyandut\OneDrive - D.Med Consulting
-#        GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\list\threadx_demo.map
+#        GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\debug\list\threadx_demo.map
 #    Command line =
 #        -f "C:\Users\obed.oyandut\OneDrive - D.Med Consulting
-#        GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\threadx_demo.out.rsp"
+#        GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\threadx_demo.out.rsp"
 #        ("C:\Users\obed.oyandut\OneDrive - D.Med Consulting
-#        GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\board\board.o"
+#        GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\board\board.o"
 #        "C:\Users\obed.oyandut\OneDrive - D.Med Consulting
-#        GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\board\clock_config.o"
+#        GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\board\clock_config.o"
 #        "C:\Users\obed.oyandut\OneDrive - D.Med Consulting
-#        GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\board\dcd.o"
+#        GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\board\dcd.o"
 #        "C:\Users\obed.oyandut\OneDrive - D.Med Consulting
-#        GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\xip\evkbimxrt1050_flexspi_nor_config.o"
+#        GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\xip\evkbimxrt1050_flexspi_nor_config.o"
 #        "C:\Users\obed.oyandut\OneDrive - D.Med Consulting
-#        GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\component\uart\fsl_adapter_lpuart.o"
+#        GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\component\uart\fsl_adapter_lpuart.o"
 #        "C:\Users\obed.oyandut\OneDrive - D.Med Consulting
-#        GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\utilities\fsl_assert.o"
+#        GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\utilities\fsl_assert.o"
 #        "C:\Users\obed.oyandut\OneDrive - D.Med Consulting
-#        GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\drivers\fsl_clock.o"
+#        GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\drivers\fsl_clock.o"
 #        "C:\Users\obed.oyandut\OneDrive - D.Med Consulting
-#        GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\drivers\fsl_common.o"
+#        GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\drivers\fsl_common.o"
 #        "C:\Users\obed.oyandut\OneDrive - D.Med Consulting
-#        GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\drivers\fsl_common_arm.o"
+#        GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\drivers\fsl_common_arm.o"
 #        "C:\Users\obed.oyandut\OneDrive - D.Med Consulting
-#        GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\component\lists\fsl_component_generic_list.o"
+#        GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\component\lists\fsl_component_generic_list.o"
 #        "C:\Users\obed.oyandut\OneDrive - D.Med Consulting
-#        GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\component\serial_manager\fsl_component_serial_manager.o"
+#        GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\component\serial_manager\fsl_component_serial_manager.o"
 #        "C:\Users\obed.oyandut\OneDrive - D.Med Consulting
-#        GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\component\serial_manager\fsl_component_serial_port_uart.o"
+#        GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\component\serial_manager\fsl_component_serial_port_uart.o"
 #        "C:\Users\obed.oyandut\OneDrive - D.Med Consulting
-#        GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\utilities\fsl_debug_console.o"
+#        GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\utilities\fsl_debug_console.o"
 #        "C:\Users\obed.oyandut\OneDrive - D.Med Consulting
-#        GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\xip\fsl_flexspi_nor_boot.o"
+#        GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\xip\fsl_flexspi_nor_boot.o"
 #        "C:\Users\obed.oyandut\OneDrive - D.Med Consulting
-#        GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\drivers\fsl_gpio.o"
+#        GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\drivers\fsl_gpio.o"
 #        "C:\Users\obed.oyandut\OneDrive - D.Med Consulting
-#        GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\drivers\fsl_lpuart.o"
+#        GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\drivers\fsl_lpuart.o"
 #        "C:\Users\obed.oyandut\OneDrive - D.Med Consulting
-#        GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\utilities\fsl_str.o"
+#        GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\utilities\fsl_str.o"
 #        "C:\Users\obed.oyandut\OneDrive - D.Med Consulting
-#        GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\azure-rtos\binary\threadx\cortex_m7\iar\libthreadx.a"
+#        GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\azure-rtos\binary\threadx\cortex_m7\iar\libthreadx.a"
 #        "C:\Users\obed.oyandut\OneDrive - D.Med Consulting
-#        GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\board\pin_mux.o"
+#        GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\board\pin_mux.o"
 #        "C:\Users\obed.oyandut\OneDrive - D.Med Consulting
-#        GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\startup\startup_MIMXRT1052.o"
+#        GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\startup\startup_MIMXRT1052.o"
 #        "C:\Users\obed.oyandut\OneDrive - D.Med Consulting
-#        GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\device\system_MIMXRT1052.o"
+#        GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\device\system_MIMXRT1052.o"
 #        "C:\Users\obed.oyandut\OneDrive - D.Med Consulting
-#        GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\source\threadx_demo.o"
+#        GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\source\threadx_demo.o"
 #        "C:\Users\obed.oyandut\OneDrive - D.Med Consulting
-#        GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\azure-rtos\threadx\ports\common\tx_initialize_low_level.o"
+#        GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\azure-rtos\threadx\ports\common\tx_initialize_low_level.o"
 #        "C:\Users\obed.oyandut\OneDrive - D.Med Consulting
-#        GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\azure-rtos\threadx\ports\cortex_m7\iar\src\tx_thread_context_restore.o"
+#        GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\azure-rtos\threadx\ports\cortex_m7\iar\src\tx_thread_context_restore.o"
 #        "C:\Users\obed.oyandut\OneDrive - D.Med Consulting
-#        GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\azure-rtos\threadx\ports\cortex_m7\iar\src\tx_thread_context_save.o"
+#        GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\azure-rtos\threadx\ports\cortex_m7\iar\src\tx_thread_context_save.o"
 #        "C:\Users\obed.oyandut\OneDrive - D.Med Consulting
-#        GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\azure-rtos\threadx\ports\cortex_m7\iar\src\tx_thread_interrupt_control.o"
+#        GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\azure-rtos\threadx\ports\cortex_m7\iar\src\tx_thread_interrupt_control.o"
 #        "C:\Users\obed.oyandut\OneDrive - D.Med Consulting
-#        GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\azure-rtos\threadx\ports\cortex_m7\iar\src\tx_thread_interrupt_disable.o"
+#        GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\azure-rtos\threadx\ports\cortex_m7\iar\src\tx_thread_interrupt_disable.o"
 #        "C:\Users\obed.oyandut\OneDrive - D.Med Consulting
-#        GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\azure-rtos\threadx\ports\cortex_m7\iar\src\tx_thread_interrupt_restore.o"
+#        GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\azure-rtos\threadx\ports\cortex_m7\iar\src\tx_thread_interrupt_restore.o"
 #        "C:\Users\obed.oyandut\OneDrive - D.Med Consulting
-#        GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\azure-rtos\threadx\ports\cortex_m7\iar\src\tx_thread_schedule.o"
+#        GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\azure-rtos\threadx\ports\cortex_m7\iar\src\tx_thread_schedule.o"
 #        "C:\Users\obed.oyandut\OneDrive - D.Med Consulting
-#        GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\azure-rtos\threadx\ports\cortex_m7\iar\src\tx_thread_stack_build.o"
+#        GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\azure-rtos\threadx\ports\cortex_m7\iar\src\tx_thread_stack_build.o"
 #        "C:\Users\obed.oyandut\OneDrive - D.Med Consulting
-#        GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\azure-rtos\threadx\ports\cortex_m7\iar\src\tx_thread_system_return.o"
+#        GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\azure-rtos\threadx\ports\cortex_m7\iar\src\tx_thread_system_return.o"
 #        "C:\Users\obed.oyandut\OneDrive - D.Med Consulting
-#        GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\azure-rtos\threadx\ports\cortex_m7\iar\src\tx_timer_interrupt.o"
+#        GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\azure-rtos\threadx\ports\cortex_m7\iar\src\tx_timer_interrupt.o"
 #        --redirect _Printf=_PrintfSmallNoMb --redirect _Scanf=_ScanfSmallNoMb
 #        --no_out_extension -o "C:\Users\obed.oyandut\OneDrive - D.Med
 #        Consulting
-#        GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\threadx_demo.out"
+#        GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\debug\threadx_demo.out"
 #        --map "C:\Users\obed.oyandut\OneDrive - D.Med Consulting
-#        GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\list\threadx_demo.map"
+#        GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\debug\list\threadx_demo.map"
 #        --config "C:\Users\obed.oyandut\OneDrive - D.Med Consulting
-#        GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App/MIMXRT1052/iar/MIMXRT1052xxxxx_ram.icf"
+#        GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1/MIMXRT1052/iar/MIMXRT1052xxxxx_ram.icf"
 #        --semihosting --entry Reset_Handler --vfe --text_out locale
 #        --cpu=Cortex-M7 --fpu=VFPv5_d16)
 #
@@ -141,7 +141,7 @@ No sections matched the following patterns:
   .intvec            ro code          0x0   0x400  startup_MIMXRT1052.o [10]
                                   - 0x400   0x400
 
-"P1":                                      0x7394
+"P1":                                      0x7450
   .text              ro code        0x400   0xb40  fsl_str.o [11]
   .text              ro code        0xf40   0x274  I64DivMod.o [16]
   .text              ro code       0x11b4    0x9e  modf.o [15]
@@ -176,194 +176,199 @@ No sections matched the following patterns:
   .text              ro code       0x3042     0x2  startup_MIMXRT1052.o [10]
   .text              ro code       0x3044   0x1c8  fsl_adapter_lpuart.o [6]
   .text              ro code       0x320c   0x4c8  fsl_lpuart.o [8]
-  .text              ro code       0x36d4   0x4c8  threadx_demo.o [9]
-  .text              ro code       0x3b9c   0x3a0  board.o [3]
-  .text              ro code       0x3f3c   0x128  pin_mux.o [3]
-  .text              ro code       0x4064    0x44  tx_initialize_kernel_enter.o [14]
-  .text              ro code       0x40a8    0xc0  txe_byte_pool_create.o [14]
-  .text              ro code       0x4168    0x80  txe_byte_allocate.o [14]
-  .text              ro code       0x41e8   0x144  txe_thread_create.o [14]
-  .text              ro code       0x432c    0xd4  txe_queue_create.o [14]
-  .text              ro code       0x4400    0xa0  txe_semaphore_create.o [14]
-  .text              ro code       0x44a0    0xa4  txe_event_flags_create.o [14]
-  .text              ro code       0x4544    0xb4  txe_mutex_create.o [14]
-  .text              ro code       0x45f8    0xd4  txe_block_pool_create.o [14]
-  .text              ro code       0x46cc    0x50  txe_block_allocate.o [14]
-  .text              ro code       0x471c    0x20  txe_block_release.o [14]
-  .text              ro code       0x473c    0x80  tx_thread_sleep.o [14]
-  .text              ro code       0x47bc    0x2c  txe_event_flags_set.o [14]
-  .text              ro code       0x47e8    0x50  txe_queue_send.o [14]
-  .text              ro code       0x4838    0x50  txe_queue_receive.o [14]
-  .text              ro code       0x4888    0x48  txe_semaphore_get.o [14]
-  .text              ro code       0x48d0    0x18  txe_semaphore_put.o [14]
-  .text              ro code       0x48e8    0x54  txe_event_flags_get.o [14]
-  .text              ro code       0x493c    0x68  txe_mutex_get.o [14]
-  .text              ro code       0x49a4    0x38  txe_mutex_put.o [14]
-  .text              ro code       0x49dc    0xfc  tx_initialize_low_level.o [1]
-  .text              ro code       0x4ad8    0x2c  tx_initialize_high_level.o [14]
-  .text              ro code       0x4b04    0xc0  tx_thread_schedule.o [2]
-  .text              ro code       0x4bc4    0x40  tx_thread_system_preempt_check.o [14]
-  .text              ro code       0x4c04    0x80  tx_byte_pool_create.o [14]
-  .text              ro code       0x4c84    0xc4  tx_byte_allocate.o [14]
-  .text              ro code       0x4d48   0x124  tx_thread_create.o [14]
-  .text              ro code       0x4e6c    0x74  tx_queue_create.o [14]
-  .text              ro code       0x4ee0    0x50  tx_semaphore_create.o [14]
-  .text              ro code       0x4f30    0x4c  tx_event_flags_create.o [14]
-  .text              ro code       0x4f7c    0x60  tx_mutex_create.o [14]
-  .text              ro code       0x4fdc    0xa4  tx_block_pool_create.o [14]
-  .text              ro code       0x5080    0x9c  tx_block_allocate.o [14]
-  .text              ro code       0x511c    0x64  tx_block_release.o [14]
-  .text              ro code       0x5180   0x19c  tx_thread_system_suspend.o [14]
-  .text              ro code       0x531c   0x1c8  tx_event_flags_set.o [14]
-  .text              ro code       0x54e4   0x154  tx_queue_send.o [14]
-  .text              ro code       0x5638   0x1c8  tx_queue_receive.o [14]
-  .text              ro code       0x5800    0x90  tx_semaphore_get.o [14]
-  .text              ro code       0x5890    0x68  tx_semaphore_put.o [14]
-  .text              ro code       0x58f8    0xe0  tx_event_flags_get.o [14]
-  .text              ro code       0x59d8   0x110  tx_mutex_get.o [14]
-  .text              ro code       0x5ae8   0x1d6  tx_mutex_put.o [14]
-  .text              ro code       0x5cc0    0xb8  tx_timer_interrupt.o [2]
-  .text              ro code       0x5d78    0x40  tx_thread_initialize.o [14]
-  .text              ro code       0x5db8    0xa0  tx_timer_initialize.o [14]
-  .text              ro code       0x5e58    0xf8  tx_byte_pool_search.o [14]
-  .text              ro code       0x5f50    0x44  tx_thread_stack_build.o [2]
-  .text              ro code       0x5f94   0x120  tx_thread_system_resume.o [14]
-  .text              ro code       0x60b4    0x60  tx_timer_system_activate.o [14]
-  .text              ro code       0x6114    0xcc  tx_mutex_priority_change.o [14]
-  .text              ro code       0x61e0    0x9c  tx_mutex_prioritize.o [14]
-  .text              ro code       0x627c    0x20  tx_timer_expiration_process.o [14]
-  .text              ro code       0x629c    0x64  tx_thread_time_slice.o [14]
-  .text              ro code       0x6300    0x2c  tx_timer_system_deactivate.o [14]
-  .rodata            const         0x632c    0x7c  board.o [3]
-  .rodata            const         0x63a8   0x420  pow64.o [15]
-  .text              ro code       0x67c8   0x104  tx_timer_thread_entry.o [14]
-  .text              ro code       0x68cc    0xf4  system_MIMXRT1052.o [7]
-  .text              ro code       0x69c0     0x2  system_MIMXRT1052.o [7]
-  .text              ro code       0x69c4    0xbc  tx_mutex_cleanup.o [14]
-  .rodata            const         0x6a80    0x94  fsl_adapter_lpuart.o [6]
-  .rodata            const         0x6b14    0x84  clock_config.o [3]
-  .rodata            const         0x6b98    0x84  fsl_clock.o [8]
-  .rodata            const         0x6c1c    0x84  fsl_lpuart.o [8]
-  .rodata            const         0x6ca0    0x84  fsl_lpuart.o [8]
-  .rodata            const         0x6d24    0x84  pin_mux.o [3]
-  .text              ro code       0x6da8    0x84  tx_event_flags_cleanup.o [14]
-  .text              ro code       0x6e2c    0x84  tx_queue_cleanup.o [14]
-  .text              ro code       0x6eb0    0x7c  tx_block_pool_cleanup.o [14]
-  .text              ro code       0x6f2c    0x7c  tx_byte_pool_cleanup.o [14]
-  .text              ro code       0x6fa8    0x7c  tx_semaphore_cleanup.o [14]
-  .text              ro code       0x7024    0x7c  tx_thread_shell_entry.o [14]
-  .rodata            const         0x70a0    0x4c  fsl_adapter_lpuart.o [6]
-  .rodata            const         0x70ec    0x40  fsl_lpuart.o [8]
-  .text              ro code       0x712c    0x38  zero_init3.o [16]
-  .text              ro code       0x7164    0x34  tx_thread_timeout.o [14]
-  .rodata            const         0x7198    0x2c  fsl_adapter_lpuart.o [6]
-  .rodata            const         0x71c4    0x2c  fsl_assert.o [11]
-  .rodata            const         0x71f0    0x28  fsl_lpuart.o [8]
-  .rodata            const         0x7218    0x28  fsl_lpuart.o [8]
-  .text              ro code       0x7240    0x28  startup_MIMXRT1052.o [10]
-  .text              ro code       0x7268    0x28  data_init.o [16]
-  .rodata            const         0x7290    0x24  fsl_adapter_lpuart.o [6]
-  .rodata            const         0x72b4    0x24  fsl_lpuart.o [8]
-  .text              ro code       0x72d8    0x22  fpinit_M.o [15]
-  .iar.init_table    const         0x72fc    0x2c  - Linker created -
-  .text              ro code       0x7328    0x1e  cmain.o [16]
-  .text              ro code       0x7346     0x4  low_level_init.o [13]
-  .text              ro code       0x734a     0x4  exit.o [13]
-  .text              ro code       0x7350     0xa  cexit.o [16]
-  .text              ro code       0x735c    0x14  exit.o [17]
-  .rodata            const         0x7370    0x1c  board.o [3]
-  .rodata            const         0x738c    0x1c  fsl_lpuart.o [8]
-  .text              ro code       0x73a8    0x1c  cstartup_M.o [16]
-  .rodata            const         0x73c4    0x18  board.o [3]
-  .rodata            const         0x73dc    0x18  clock_config.o [3]
-  .rodata            const         0x73f4    0x18  threadx_demo.o [9]
-  .rodata            const         0x740c    0x18  threadx_demo.o [9]
-  .rodata            const         0x7424    0x18  threadx_demo.o [9]
-  .rodata            const         0x743c    0x18  threadx_demo.o [9]
-  .rodata            const         0x7454    0x18  threadx_demo.o [9]
-  .rodata            const         0x746c    0x18  threadx_demo.o [9]
-  .rodata            const         0x7484    0x14  clock_config.o [3]
-  .rodata            const         0x7498    0x14  fsl_debug_console.o [11]
-  .rodata            const         0x74ac    0x14  fsl_lpuart.o [8]
-  .rodata            const         0x74c0    0x10  clock_config.o [3]
-  .rodata            const         0x74d0    0x10  fsl_clock.o [8]
-  .rodata            const         0x74e0    0x10  fsl_clock.o [8]
-  .rodata            const         0x74f0    0x10  fsl_lpuart.o [8]
-  .rodata            const         0x7500    0x10  pin_mux.o [3]
-  .rodata            const         0x7510    0x10  threadx_demo.o [9]
-  .rodata            const         0x7520    0x10  threadx_demo.o [9]
-  .rodata            const         0x7530     0xc  fsl_adapter_lpuart.o [6]
-  .rodata            const         0x753c     0xc  fsl_adapter_lpuart.o [6]
-  .rodata            const         0x7548     0xc  fsl_adapter_lpuart.o [6]
-  .rodata            const         0x7554     0xc  fsl_adapter_lpuart.o [6]
-  .rodata            const         0x7560     0xc  fsl_lpuart.o [8]
-  .rodata            const         0x756c     0xc  fsl_lpuart.o [8]
-  .rodata            const         0x7578     0xc  threadx_demo.o [9]
-  .rodata            const         0x7584     0xc  threadx_demo.o [9]
-  .rodata            const         0x7590     0xc  threadx_demo.o [9]
-  .rodata            const         0x759c     0xc  threadx_demo.o [9]
-  .rodata            const         0x75a8     0xc  threadx_demo.o [9]
-  .rodata            const         0x75b4     0xc  threadx_demo.o [9]
-  .rodata            const         0x75c0     0xc  threadx_demo.o [9]
-  .rodata            const         0x75cc     0xc  threadx_demo.o [9]
-  .rodata            const         0x75d8     0xc  threadx_demo.o [9]
-  .rodata            const         0x75e4     0xc  threadx_demo.o [9]
-  .rodata            const         0x75f0     0x8  board.o [3]
-  .rodata            const         0x75f8     0x8  clock_config.o [3]
-  .rodata            const         0x7600     0x8  threadx_demo.o [9]
-  .rodata            const         0x7608     0x8  threadx_demo.o [9]
-  .text              ro code       0x7610     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x7618     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x7620     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x7628     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x7630     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x7638     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x7640     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x7648     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x7650     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x7658     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x7660     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x7668     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x7670     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x7678     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x7680     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x7688     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x7690     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x7698     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x76a0     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x76a8     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x76b0     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x76b8     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x76c0     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x76c8     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x76d0     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x76d8     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x76e0     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x76e8     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x76f0     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x76f8     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x7700     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x7708     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x7710     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x7718     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x7720     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x7728     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x7730     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x7738     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x7740     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x7748     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x7750     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x7758     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x7760     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x7768     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x7770     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x7778     0x8  startup_MIMXRT1052.o [10]
-  .text              ro code       0x7780     0x8  startup_MIMXRT1052.o [10]
-  Initializer bytes  const         0x7788     0x8  <for RW-1>
-  .text              ro code       0x7790     0x4  startup_MIMXRT1052.o [10]
-  .rodata            const         0x7794     0x0  zero_init3.o [16]
-  .rodata            const         0x7794     0x0  copy_init3.o [16]
-                                 - 0x7794  0x7394
+  .text              ro code       0x36d4   0x504  threadx_demo.o [9]
+  .text              ro code       0x3bd8   0x3a0  board.o [3]
+  .text              ro code       0x3f78   0x128  pin_mux.o [3]
+  .text              ro code       0x40a0    0x44  tx_initialize_kernel_enter.o [14]
+  .text              ro code       0x40e4    0xc0  txe_byte_pool_create.o [14]
+  .text              ro code       0x41a4    0x80  txe_byte_allocate.o [14]
+  .text              ro code       0x4224   0x144  txe_thread_create.o [14]
+  .text              ro code       0x4368    0xd4  txe_queue_create.o [14]
+  .text              ro code       0x443c    0xa0  txe_semaphore_create.o [14]
+  .text              ro code       0x44dc    0xa4  txe_event_flags_create.o [14]
+  .text              ro code       0x4580    0xb4  txe_mutex_create.o [14]
+  .text              ro code       0x4634    0xd4  txe_block_pool_create.o [14]
+  .text              ro code       0x4708    0x50  txe_block_allocate.o [14]
+  .text              ro code       0x4758    0x20  txe_block_release.o [14]
+  .text              ro code       0x4778    0x80  tx_thread_sleep.o [14]
+  .text              ro code       0x47f8    0x2c  txe_event_flags_set.o [14]
+  .text              ro code       0x4824    0x50  txe_queue_send.o [14]
+  .text              ro code       0x4874    0x50  txe_queue_receive.o [14]
+  .text              ro code       0x48c4    0x48  txe_semaphore_get.o [14]
+  .text              ro code       0x490c    0x18  txe_semaphore_put.o [14]
+  .text              ro code       0x4924    0x54  txe_event_flags_get.o [14]
+  .text              ro code       0x4978    0x68  txe_mutex_get.o [14]
+  .text              ro code       0x49e0    0x38  txe_mutex_put.o [14]
+  .text              ro code       0x4a18    0xfc  tx_initialize_low_level.o [1]
+  .text              ro code       0x4b14    0x2c  tx_initialize_high_level.o [14]
+  .text              ro code       0x4b40    0xc0  tx_thread_schedule.o [2]
+  .text              ro code       0x4c00    0x40  tx_thread_system_preempt_check.o [14]
+  .text              ro code       0x4c40    0x80  tx_byte_pool_create.o [14]
+  .text              ro code       0x4cc0    0xc4  tx_byte_allocate.o [14]
+  .text              ro code       0x4d84   0x124  tx_thread_create.o [14]
+  .text              ro code       0x4ea8    0x74  tx_queue_create.o [14]
+  .text              ro code       0x4f1c    0x50  tx_semaphore_create.o [14]
+  .text              ro code       0x4f6c    0x4c  tx_event_flags_create.o [14]
+  .text              ro code       0x4fb8    0x60  tx_mutex_create.o [14]
+  .text              ro code       0x5018    0xa4  tx_block_pool_create.o [14]
+  .text              ro code       0x50bc    0x9c  tx_block_allocate.o [14]
+  .text              ro code       0x5158    0x64  tx_block_release.o [14]
+  .text              ro code       0x51bc   0x19c  tx_thread_system_suspend.o [14]
+  .text              ro code       0x5358   0x1c8  tx_event_flags_set.o [14]
+  .text              ro code       0x5520   0x154  tx_queue_send.o [14]
+  .text              ro code       0x5674   0x1c8  tx_queue_receive.o [14]
+  .text              ro code       0x583c    0x90  tx_semaphore_get.o [14]
+  .text              ro code       0x58cc    0x68  tx_semaphore_put.o [14]
+  .text              ro code       0x5934    0xe0  tx_event_flags_get.o [14]
+  .text              ro code       0x5a14   0x110  tx_mutex_get.o [14]
+  .text              ro code       0x5b24   0x1d6  tx_mutex_put.o [14]
+  .text              ro code       0x5cfc    0xb8  tx_timer_interrupt.o [2]
+  .text              ro code       0x5db4    0x40  tx_thread_initialize.o [14]
+  .text              ro code       0x5df4    0xa0  tx_timer_initialize.o [14]
+  .text              ro code       0x5e94    0xf8  tx_byte_pool_search.o [14]
+  .text              ro code       0x5f8c    0x44  tx_thread_stack_build.o [2]
+  .text              ro code       0x5fd0   0x120  tx_thread_system_resume.o [14]
+  .text              ro code       0x60f0    0x60  tx_timer_system_activate.o [14]
+  .text              ro code       0x6150    0xcc  tx_mutex_priority_change.o [14]
+  .text              ro code       0x621c    0x9c  tx_mutex_prioritize.o [14]
+  .text              ro code       0x62b8    0x20  tx_timer_expiration_process.o [14]
+  .text              ro code       0x62d8    0x64  tx_thread_time_slice.o [14]
+  .text              ro code       0x633c    0x2c  tx_timer_system_deactivate.o [14]
+  .rodata            const         0x6368   0x420  pow64.o [15]
+  .text              ro code       0x6788   0x104  tx_timer_thread_entry.o [14]
+  .text              ro code       0x688c    0xf4  system_MIMXRT1052.o [7]
+  .text              ro code       0x6980     0x2  system_MIMXRT1052.o [7]
+  .text              ro code       0x6984    0xbc  tx_mutex_cleanup.o [14]
+  .rodata            const         0x6a40    0x94  fsl_adapter_lpuart.o [6]
+  .rodata            const         0x6ad4    0x84  clock_config.o [3]
+  .rodata            const         0x6b58    0x84  fsl_clock.o [8]
+  .rodata            const         0x6bdc    0x84  fsl_lpuart.o [8]
+  .rodata            const         0x6c60    0x84  fsl_lpuart.o [8]
+  .rodata            const         0x6ce4    0x84  pin_mux.o [3]
+  .text              ro code       0x6d68    0x84  tx_event_flags_cleanup.o [14]
+  .text              ro code       0x6dec    0x84  tx_queue_cleanup.o [14]
+  .rodata            const         0x6e70    0x80  board.o [3]
+  .text              ro code       0x6ef0    0x7c  tx_block_pool_cleanup.o [14]
+  .text              ro code       0x6f6c    0x7c  tx_byte_pool_cleanup.o [14]
+  .text              ro code       0x6fe8    0x7c  tx_semaphore_cleanup.o [14]
+  .text              ro code       0x7064    0x7c  tx_thread_shell_entry.o [14]
+  .rodata            const         0x70e0    0x4c  fsl_adapter_lpuart.o [6]
+  .rodata            const         0x712c    0x40  fsl_lpuart.o [8]
+  .text              ro code       0x716c    0x38  zero_init3.o [16]
+  .text              ro code       0x71a4    0x34  tx_thread_timeout.o [14]
+  .rodata            const         0x71d8    0x2c  fsl_adapter_lpuart.o [6]
+  .rodata            const         0x7204    0x2c  fsl_assert.o [11]
+  .rodata            const         0x7230    0x28  fsl_lpuart.o [8]
+  .rodata            const         0x7258    0x28  fsl_lpuart.o [8]
+  .text              ro code       0x7280    0x28  startup_MIMXRT1052.o [10]
+  .text              ro code       0x72a8    0x28  data_init.o [16]
+  .rodata            const         0x72d0    0x24  fsl_adapter_lpuart.o [6]
+  .rodata            const         0x72f4    0x24  fsl_lpuart.o [8]
+  .text              ro code       0x7318    0x22  fpinit_M.o [15]
+  .iar.init_table    const         0x733c    0x2c  - Linker created -
+  .text              ro code       0x7368    0x1e  cmain.o [16]
+  .text              ro code       0x7386     0x4  low_level_init.o [13]
+  .text              ro code       0x738a     0x4  exit.o [13]
+  .text              ro code       0x7390     0xa  cexit.o [16]
+  .text              ro code       0x739c    0x14  exit.o [17]
+  .rodata            const         0x73b0    0x1c  board.o [3]
+  .rodata            const         0x73cc    0x1c  fsl_lpuart.o [8]
+  .rodata            const         0x73e8    0x1c  threadx_demo.o [9]
+  .text              ro code       0x7404    0x1c  cstartup_M.o [16]
+  .rodata            const         0x7420    0x18  board.o [3]
+  .rodata            const         0x7438    0x18  clock_config.o [3]
+  .rodata            const         0x7450    0x18  threadx_demo.o [9]
+  .rodata            const         0x7468    0x18  threadx_demo.o [9]
+  .rodata            const         0x7480    0x18  threadx_demo.o [9]
+  .rodata            const         0x7498    0x18  threadx_demo.o [9]
+  .rodata            const         0x74b0    0x18  threadx_demo.o [9]
+  .rodata            const         0x74c8    0x18  threadx_demo.o [9]
+  .rodata            const         0x74e0    0x18  threadx_demo.o [9]
+  .rodata            const         0x74f8    0x18  threadx_demo.o [9]
+  .rodata            const         0x7510    0x18  threadx_demo.o [9]
+  .rodata            const         0x7528    0x18  threadx_demo.o [9]
+  .rodata            const         0x7540    0x14  clock_config.o [3]
+  .rodata            const         0x7554    0x14  fsl_debug_console.o [11]
+  .rodata            const         0x7568    0x14  fsl_lpuart.o [8]
+  .rodata            const         0x757c    0x10  clock_config.o [3]
+  .rodata            const         0x758c    0x10  fsl_clock.o [8]
+  .rodata            const         0x759c    0x10  fsl_clock.o [8]
+  .rodata            const         0x75ac    0x10  fsl_lpuart.o [8]
+  .rodata            const         0x75bc    0x10  pin_mux.o [3]
+  .rodata            const         0x75cc    0x10  threadx_demo.o [9]
+  .rodata            const         0x75dc    0x10  threadx_demo.o [9]
+  .rodata            const         0x75ec     0xc  fsl_adapter_lpuart.o [6]
+  .rodata            const         0x75f8     0xc  fsl_adapter_lpuart.o [6]
+  .rodata            const         0x7604     0xc  fsl_adapter_lpuart.o [6]
+  .rodata            const         0x7610     0xc  fsl_adapter_lpuart.o [6]
+  .rodata            const         0x761c     0xc  fsl_lpuart.o [8]
+  .rodata            const         0x7628     0xc  fsl_lpuart.o [8]
+  .rodata            const         0x7634     0xc  threadx_demo.o [9]
+  .rodata            const         0x7640     0xc  threadx_demo.o [9]
+  .rodata            const         0x764c     0xc  threadx_demo.o [9]
+  .rodata            const         0x7658     0xc  threadx_demo.o [9]
+  .rodata            const         0x7664     0xc  threadx_demo.o [9]
+  .rodata            const         0x7670     0xc  threadx_demo.o [9]
+  .rodata            const         0x767c     0xc  threadx_demo.o [9]
+  .rodata            const         0x7688     0xc  threadx_demo.o [9]
+  .rodata            const         0x7694     0xc  threadx_demo.o [9]
+  .rodata            const         0x76a0     0xc  threadx_demo.o [9]
+  .rodata            const         0x76ac     0x8  board.o [3]
+  .rodata            const         0x76b4     0x8  clock_config.o [3]
+  .rodata            const         0x76bc     0x8  threadx_demo.o [9]
+  .rodata            const         0x76c4     0x8  threadx_demo.o [9]
+  .text              ro code       0x76cc     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x76d4     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x76dc     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x76e4     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x76ec     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x76f4     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x76fc     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x7704     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x770c     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x7714     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x771c     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x7724     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x772c     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x7734     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x773c     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x7744     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x774c     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x7754     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x775c     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x7764     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x776c     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x7774     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x777c     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x7784     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x778c     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x7794     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x779c     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x77a4     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x77ac     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x77b4     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x77bc     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x77c4     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x77cc     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x77d4     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x77dc     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x77e4     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x77ec     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x77f4     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x77fc     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x7804     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x780c     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x7814     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x781c     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x7824     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x782c     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x7834     0x8  startup_MIMXRT1052.o [10]
+  .text              ro code       0x783c     0x8  startup_MIMXRT1052.o [10]
+  Initializer bytes  const         0x7844     0x8  <for RW-1>
+  .text              ro code       0x784c     0x4  startup_MIMXRT1052.o [10]
+  .rodata            const         0x7850     0x0  zero_init3.o [16]
+  .rodata            const         0x7850     0x0  copy_init3.o [16]
+                                 - 0x7850  0x7450
 
 "P2-P4", part 1 of 3:                         0x8
   RW                          0x2000'0000     0x8  <Block>
@@ -431,7 +436,7 @@ Unused ranges:
 
          From           To      Size
          ----           --      ----
-       0x7794     0x1'ffff  0x1'886c
+       0x7850     0x1'ffff  0x1'87b0
   0x2000'312c  0x2000'312f       0x4
   0x2000'3530  0x2001'fbff  0x1'c6d0
   0x2020'0020  0x2023'ffff  0x3'ffe0
@@ -450,7 +455,7 @@ Zero (__iar_zero_init3)
 
 Copy (__iar_copy_init3)
     1 source range, total size 0x8:
-               0x7788     0x8
+               0x7844     0x8
     1 destination range, total size 0x8:
           0x2000'0000     0x8
 
@@ -466,69 +471,69 @@ command line/config:
     -----------------------------------------------------------
     Total:
 
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\azure-rtos\threadx\ports\common: [1]
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\azure-rtos\threadx\ports\common: [1]
     tx_initialize_low_level.o             252
     -----------------------------------------------------------
     Total:                                252
 
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\azure-rtos\threadx\ports\cortex_m7\iar\src: [2]
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\azure-rtos\threadx\ports\cortex_m7\iar\src: [2]
     tx_thread_schedule.o                  192
     tx_thread_stack_build.o                68
     tx_timer_interrupt.o                  184
     -----------------------------------------------------------
     Total:                                444
 
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\board: [3]
-    board.o                               928      184
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\board: [3]
+    board.o                               928      188
     clock_config.o                      2'304      202
     pin_mux.o                             296      148
     -----------------------------------------------------------
-    Total:                              3'528      534
+    Total:                              3'528      538
 
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\component\lists: [4]
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\component\lists: [4]
     -----------------------------------------------------------
     Total:
 
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\component\serial_manager: [5]
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\component\serial_manager: [5]
     fsl_component_serial_manager.o        350
     fsl_component_serial_port_uart.o       72
     -----------------------------------------------------------
     Total:                                422
 
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\component\uart: [6]
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\component\uart: [6]
     fsl_adapter_lpuart.o                  456      352
     -----------------------------------------------------------
     Total:                                456      352
 
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\device: [7]
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\device: [7]
     system_MIMXRT1052.o                   246        4        4
     -----------------------------------------------------------
     Total:                                246        4        4
 
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\drivers: [8]
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\drivers: [8]
     fsl_clock.o                         1'392      164        8
     fsl_lpuart.o                        1'224      532       72
     -----------------------------------------------------------
     Total:                              2'616      696       80
 
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\source: [9]
-    threadx_demo.o                      1'224      312   10'884
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\source: [9]
+    threadx_demo.o                      1'284      436   10'884
     -----------------------------------------------------------
-    Total:                              1'224      312   10'884
+    Total:                              1'284      436   10'884
 
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\startup: [10]
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\startup: [10]
     startup_MIMXRT1052.o                1'458
     -----------------------------------------------------------
     Total:                              1'458
 
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\utilities: [11]
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\utilities: [11]
     fsl_assert.o                           28       44
     fsl_debug_console.o                   488       20       37
     fsl_str.o                           2'880
     -----------------------------------------------------------
     Total:                              3'396       64       37
 
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\xip: [12]
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\xip: [12]
     -----------------------------------------------------------
     Total:
 
@@ -641,7 +646,7 @@ shb_l.a: [17]
     Gaps                                    8        2
     Linker created                                  44    2'048
 ---------------------------------------------------------------
-    Grand Total:                       27'544    3'068   14'665
+    Grand Total:                       27'604    3'196   14'665
 
 
 *******************************************************************************
@@ -650,59 +655,59 @@ shb_l.a: [17]
 
 Entry                       Address    Size  Type      Object
 -----                       -------    ----  ----      ------
-.iar.init_table$$Base        0x72fc           --   Gb  - Linker created -
-.iar.init_table$$Limit       0x7328           --   Gb  - Linker created -
-?main                        0x7329          Code  Gb  cmain.o [16]
-ACMP1_IRQHandler             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-ACMP2_IRQHandler             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-ACMP3_IRQHandler             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-ACMP4_IRQHandler             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-ADC1_IRQHandler              0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-ADC2_IRQHandler              0x7791          Code  Wk  startup_MIMXRT1052.o [10]
+.iar.init_table$$Base        0x733c           --   Gb  - Linker created -
+.iar.init_table$$Limit       0x7368           --   Gb  - Linker created -
+?main                        0x7369          Code  Gb  cmain.o [16]
+ACMP1_IRQHandler             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+ACMP2_IRQHandler             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+ACMP3_IRQHandler             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+ACMP4_IRQHandler             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+ADC1_IRQHandler              0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+ADC2_IRQHandler              0x784d          Code  Wk  startup_MIMXRT1052.o [10]
 ADC_ETC_ERROR_IRQ_IRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
 ADC_ETC_IRQ0_IRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
 ADC_ETC_IRQ1_IRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
 ADC_ETC_IRQ2_IRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-ARM_MPU_Disable              0x3bbd    0x22  Code  Lc  board.o [3]
-ARM_MPU_Enable               0x3b9d    0x20  Code  Lc  board.o [3]
-BEE_IRQHandler               0x7791          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+ARM_MPU_Disable              0x3bf9    0x22  Code  Lc  board.o [3]
+ARM_MPU_Enable               0x3bd9    0x20  Code  Lc  board.o [3]
+BEE_IRQHandler               0x784d          Code  Wk  startup_MIMXRT1052.o [10]
 BOARD_BootClockRUN           0x1f79   0x5aa  Code  Gb  clock_config.o [3]
-BOARD_ConfigMPU              0x3c97   0x216  Code  Gb  board.o [3]
+BOARD_ConfigMPU              0x3cd3   0x216  Code  Gb  board.o [3]
 BOARD_DebugConsoleSrcFreq
-                             0x3c45    0x3a  Code  Gb  board.o [3]
+                             0x3c81    0x3a  Code  Gb  board.o [3]
 BOARD_InitBootClocks         0x1f71     0x8  Code  Gb  clock_config.o [3]
-BOARD_InitBootPins           0x3fdb     0x8  Code  Gb  pin_mux.o [3]
-BOARD_InitDebugConsole       0x3c7f    0x18  Code  Gb  board.o [3]
-BOARD_InitPins               0x3fe3    0x64  Code  Gb  pin_mux.o [3]
+BOARD_InitBootPins           0x4017     0x8  Code  Gb  pin_mux.o [3]
+BOARD_InitDebugConsole       0x3cbb    0x18  Code  Gb  board.o [3]
+BOARD_InitPins               0x401f    0x64  Code  Gb  pin_mux.o [3]
 BusFault_Handler             0x2f57          Code  Wk  startup_MIMXRT1052.o [10]
-CAN1_DriverIRQHandler        0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-CAN1_IRQHandler              0x7719          Code  Wk  startup_MIMXRT1052.o [10]
-CAN2_DriverIRQHandler        0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-CAN2_IRQHandler              0x7721          Code  Wk  startup_MIMXRT1052.o [10]
-CCM_1_IRQHandler             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-CCM_2_IRQHandler             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
+CAN1_DriverIRQHandler        0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+CAN1_IRQHandler              0x77d5          Code  Wk  startup_MIMXRT1052.o [10]
+CAN2_DriverIRQHandler        0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+CAN2_IRQHandler              0x77dd          Code  Wk  startup_MIMXRT1052.o [10]
+CCM_1_IRQHandler             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+CCM_2_IRQHandler             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
 CLOCK_ControlGate            0x1e71    0x50  Code  Lc  clock_config.o [3]
 CLOCK_ControlGate            0x3225    0x50  Code  Lc  fsl_lpuart.o [8]
-CLOCK_ControlGate            0x3f55    0x4a  Code  Lc  pin_mux.o [3]
+CLOCK_ControlGate            0x3f91    0x4a  Code  Lc  pin_mux.o [3]
 CLOCK_DeinitAudioPll         0x2873     0xc  Code  Gb  fsl_clock.o [8]
 CLOCK_DeinitEnetPll          0x287f     0xc  Code  Gb  fsl_clock.o [8]
 CLOCK_DeinitUsb2Pll          0x2869     0xa  Code  Gb  fsl_clock.o [8]
 CLOCK_DisableClock           0x1ec1    0x10  Code  Lc  clock_config.o [3]
 CLOCK_EnableClock            0x3275    0x10  Code  Lc  fsl_lpuart.o [8]
-CLOCK_EnableClock            0x3f9f    0x10  Code  Lc  pin_mux.o [3]
-CLOCK_GetDiv                 0x3c09    0x2a  Code  Lc  board.o [3]
-CLOCK_GetMux                 0x3bdf    0x2a  Code  Lc  board.o [3]
-CLOCK_GetOscFreq             0x3c33    0x12  Code  Lc  board.o [3]
+CLOCK_EnableClock            0x3fdb    0x10  Code  Lc  pin_mux.o [3]
+CLOCK_GetDiv                 0x3c45    0x2a  Code  Lc  board.o [3]
+CLOCK_GetMux                 0x3c1b    0x2a  Code  Lc  board.o [3]
+CLOCK_GetOscFreq             0x3c6f    0x12  Code  Lc  board.o [3]
 CLOCK_GetOscFreq             0x26a1    0x18  Code  Lc  fsl_clock.o [8]
 CLOCK_GetPllBypassRefClk
                              0x26df    0x22  Code  Lc  fsl_clock.o [8]
 CLOCK_GetPllFreq             0x2895   0x294  Code  Gb  fsl_clock.o [8]
 CLOCK_GetPllFreq::enetRefClkFreq
-                             0x74e0    0x10  Data  Lc  fsl_clock.o [8]
+                             0x759c    0x10  Data  Lc  fsl_clock.o [8]
 CLOCK_InitArmPll             0x2775    0x40  Code  Gb  fsl_clock.o [8]
 CLOCK_InitExternalClk        0x2701    0x4a  Code  Gb  fsl_clock.o [8]
 CLOCK_InitRcOsc24M           0x2767     0xe  Code  Gb  fsl_clock.o [8]
@@ -718,71 +723,71 @@ CLOCK_SetPllBypass           0x1ee1    0x2c  Code  Lc  clock_config.o [3]
 CLOCK_SetRtcXtalFreq         0x1ed9     0x8  Code  Lc  clock_config.o [3]
 CLOCK_SetXtalFreq            0x1ed1     0x8  Code  Lc  clock_config.o [3]
 CLOCK_SwitchOsc              0x274b    0x1c  Code  Gb  fsl_clock.o [8]
-CORE_IRQHandler              0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-CSI_IRQHandler               0x7791          Code  Wk  startup_MIMXRT1052.o [10]
+CORE_IRQHandler              0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+CSI_IRQHandler               0x784d          Code  Wk  startup_MIMXRT1052.o [10]
 CSTACK$$Base            0x2001'fc00           --   Gb  - Linker created -
 CSTACK$$Limit           0x2002'0000           --   Gb  - Linker created -
-CSU_IRQHandler               0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-CTI0_ERROR_IRQHandler        0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-CTI1_ERROR_IRQHandler        0x7791          Code  Wk  startup_MIMXRT1052.o [10]
+CSU_IRQHandler               0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+CTI0_ERROR_IRQHandler        0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+CTI1_ERROR_IRQHandler        0x784d          Code  Wk  startup_MIMXRT1052.o [10]
 ConvertFloatRadixNumToString
                               0x999   0x1b6  Code  Lc  fsl_str.o [11]
 ConvertRadixNumToString
                               0x80d   0x18a  Code  Lc  fsl_str.o [11]
-DCDC_IRQHandler              0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-DCP_IRQHandler               0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-DCP_VMI_IRQHandler           0x7791          Code  Wk  startup_MIMXRT1052.o [10]
+DCDC_IRQHandler              0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+DCP_IRQHandler               0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+DCP_VMI_IRQHandler           0x784d          Code  Wk  startup_MIMXRT1052.o [10]
 DMA0_DMA16_DriverIRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-DMA0_DMA16_IRQHandler        0x7611          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+DMA0_DMA16_IRQHandler        0x76cd          Code  Wk  startup_MIMXRT1052.o [10]
 DMA10_DMA26_DriverIRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-DMA10_DMA26_IRQHandler       0x7661          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+DMA10_DMA26_IRQHandler       0x771d          Code  Wk  startup_MIMXRT1052.o [10]
 DMA11_DMA27_DriverIRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-DMA11_DMA27_IRQHandler       0x7669          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+DMA11_DMA27_IRQHandler       0x7725          Code  Wk  startup_MIMXRT1052.o [10]
 DMA12_DMA28_DriverIRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-DMA12_DMA28_IRQHandler       0x7671          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+DMA12_DMA28_IRQHandler       0x772d          Code  Wk  startup_MIMXRT1052.o [10]
 DMA13_DMA29_DriverIRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-DMA13_DMA29_IRQHandler       0x7679          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+DMA13_DMA29_IRQHandler       0x7735          Code  Wk  startup_MIMXRT1052.o [10]
 DMA14_DMA30_DriverIRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-DMA14_DMA30_IRQHandler       0x7681          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+DMA14_DMA30_IRQHandler       0x773d          Code  Wk  startup_MIMXRT1052.o [10]
 DMA15_DMA31_DriverIRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-DMA15_DMA31_IRQHandler       0x7689          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+DMA15_DMA31_IRQHandler       0x7745          Code  Wk  startup_MIMXRT1052.o [10]
 DMA1_DMA17_DriverIRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-DMA1_DMA17_IRQHandler        0x7619          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+DMA1_DMA17_IRQHandler        0x76d5          Code  Wk  startup_MIMXRT1052.o [10]
 DMA2_DMA18_DriverIRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-DMA2_DMA18_IRQHandler        0x7621          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+DMA2_DMA18_IRQHandler        0x76dd          Code  Wk  startup_MIMXRT1052.o [10]
 DMA3_DMA19_DriverIRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-DMA3_DMA19_IRQHandler        0x7629          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+DMA3_DMA19_IRQHandler        0x76e5          Code  Wk  startup_MIMXRT1052.o [10]
 DMA4_DMA20_DriverIRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-DMA4_DMA20_IRQHandler        0x7631          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+DMA4_DMA20_IRQHandler        0x76ed          Code  Wk  startup_MIMXRT1052.o [10]
 DMA5_DMA21_DriverIRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-DMA5_DMA21_IRQHandler        0x7639          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+DMA5_DMA21_IRQHandler        0x76f5          Code  Wk  startup_MIMXRT1052.o [10]
 DMA6_DMA22_DriverIRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-DMA6_DMA22_IRQHandler        0x7641          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+DMA6_DMA22_IRQHandler        0x76fd          Code  Wk  startup_MIMXRT1052.o [10]
 DMA7_DMA23_DriverIRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-DMA7_DMA23_IRQHandler        0x7649          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+DMA7_DMA23_IRQHandler        0x7705          Code  Wk  startup_MIMXRT1052.o [10]
 DMA8_DMA24_DriverIRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-DMA8_DMA24_IRQHandler        0x7651          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+DMA8_DMA24_IRQHandler        0x770d          Code  Wk  startup_MIMXRT1052.o [10]
 DMA9_DMA25_DriverIRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-DMA9_DMA25_IRQHandler        0x7659          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+DMA9_DMA25_IRQHandler        0x7715          Code  Wk  startup_MIMXRT1052.o [10]
 DMA_ERROR_DriverIRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-DMA_ERROR_IRQHandler         0x7691          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+DMA_ERROR_IRQHandler         0x774d          Code  Wk  startup_MIMXRT1052.o [10]
 DbgConsole_Init              0x2c89    0xfe  Code  Gb  fsl_debug_console.o [11]
 DbgConsole_PrintCallback
                              0x2c4b    0x3e  Code  Lc  fsl_debug_console.o [11]
@@ -791,63 +796,63 @@ DbgConsole_SendDataReliable
                              0x2c11    0x3a  Code  Gb  fsl_debug_console.o [11]
 DbgConsole_Vprintf           0x2d9f    0x42  Code  Gb  fsl_debug_console.o [11]
 DebugMon_Handler             0x3043          Code  Wk  startup_MIMXRT1052.o [10]
-DefaultISR                   0x7791          Code  Wk  startup_MIMXRT1052.o [10]
+DefaultISR                   0x784d          Code  Wk  startup_MIMXRT1052.o [10]
 DisableGlobalIRQ             0x2df9     0x8  Code  Lc  fsl_component_serial_manager.o [5]
-DisableGlobalIRQ             0x4a39     0x8  Code  Lc  tx_initialize_low_level.o [1]
-ENC1_IRQHandler              0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-ENC2_IRQHandler              0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-ENC3_IRQHandler              0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-ENC4_IRQHandler              0x7791          Code  Wk  startup_MIMXRT1052.o [10]
+DisableGlobalIRQ             0x4a75     0x8  Code  Lc  tx_initialize_low_level.o [1]
+ENC1_IRQHandler              0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+ENC2_IRQHandler              0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+ENC3_IRQHandler              0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+ENC4_IRQHandler              0x784d          Code  Wk  startup_MIMXRT1052.o [10]
 ENET_1588_Timer_DriverIRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
 ENET_1588_Timer_IRQHandler
-                             0x7781          Code  Wk  startup_MIMXRT1052.o [10]
-ENET_DriverIRQHandler        0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-ENET_IRQHandler              0x7779          Code  Wk  startup_MIMXRT1052.o [10]
-EWM_IRQHandler               0x7791          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x783d          Code  Wk  startup_MIMXRT1052.o [10]
+ENET_DriverIRQHandler        0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+ENET_IRQHandler              0x7835          Code  Wk  startup_MIMXRT1052.o [10]
+EWM_IRQHandler               0x784d          Code  Wk  startup_MIMXRT1052.o [10]
 EnableGlobalIRQ              0x2e01     0x6  Code  Lc  fsl_component_serial_manager.o [5]
 FLEXIO1_DriverIRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-FLEXIO1_IRQHandler           0x7751          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+FLEXIO1_IRQHandler           0x780d          Code  Wk  startup_MIMXRT1052.o [10]
 FLEXIO2_DriverIRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-FLEXIO2_IRQHandler           0x7759          Code  Wk  startup_MIMXRT1052.o [10]
-FLEXRAM_IRQHandler           0x7791          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+FLEXIO2_IRQHandler           0x7815          Code  Wk  startup_MIMXRT1052.o [10]
+FLEXRAM_IRQHandler           0x784d          Code  Wk  startup_MIMXRT1052.o [10]
 FLEXSPI_DriverIRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-FLEXSPI_IRQHandler           0x7761          Code  Wk  startup_MIMXRT1052.o [10]
-GPC_IRQHandler               0x7791          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+FLEXSPI_IRQHandler           0x781d          Code  Wk  startup_MIMXRT1052.o [10]
+GPC_IRQHandler               0x784d          Code  Wk  startup_MIMXRT1052.o [10]
 GPIO1_Combined_0_15_IRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
 GPIO1_Combined_16_31_IRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-GPIO1_INT0_IRQHandler        0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-GPIO1_INT1_IRQHandler        0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-GPIO1_INT2_IRQHandler        0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-GPIO1_INT3_IRQHandler        0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-GPIO1_INT4_IRQHandler        0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-GPIO1_INT5_IRQHandler        0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-GPIO1_INT6_IRQHandler        0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-GPIO1_INT7_IRQHandler        0x7791          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+GPIO1_INT0_IRQHandler        0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+GPIO1_INT1_IRQHandler        0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+GPIO1_INT2_IRQHandler        0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+GPIO1_INT3_IRQHandler        0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+GPIO1_INT4_IRQHandler        0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+GPIO1_INT5_IRQHandler        0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+GPIO1_INT6_IRQHandler        0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+GPIO1_INT7_IRQHandler        0x784d          Code  Wk  startup_MIMXRT1052.o [10]
 GPIO2_Combined_0_15_IRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
 GPIO2_Combined_16_31_IRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
 GPIO3_Combined_0_15_IRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
 GPIO3_Combined_16_31_IRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
 GPIO4_Combined_0_15_IRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
 GPIO4_Combined_16_31_IRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
 GPIO5_Combined_0_15_IRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
 GPIO5_Combined_16_31_IRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-GPR_IRQ_IRQHandler           0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-GPT1_IRQHandler              0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-GPT2_IRQHandler              0x7791          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+GPR_IRQ_IRQHandler           0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+GPT1_IRQHandler              0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+GPT2_IRQHandler              0x784d          Code  Wk  startup_MIMXRT1052.o [10]
 HAL_UartGetStatus            0x3045    0x12  Code  Lc  fsl_adapter_lpuart.o [6]
 HAL_UartInit                 0x3119    0x7a  Code  Gb  fsl_adapter_lpuart.o [6]
 HAL_UartInitCommon           0x3057    0xc2  Code  Lc  fsl_adapter_lpuart.o [6]
@@ -857,60 +862,60 @@ HEAP$$Base              0x2000'3130           --   Gb  - Linker created -
 HEAP$$Limit             0x2000'3530           --   Gb  - Linker created -
 HardFault_Handler            0x192b          Code  Wk  startup_MIMXRT1052.o [10]
 IOMUXC_MQSConfig             0x1f4d    0x24  Code  Lc  clock_config.o [3]
-IOMUXC_SetPinConfig          0x3fcb    0x10  Code  Lc  pin_mux.o [3]
-IOMUXC_SetPinMux             0x3faf    0x1c  Code  Lc  pin_mux.o [3]
+IOMUXC_SetPinConfig          0x4007    0x10  Code  Lc  pin_mux.o [3]
+IOMUXC_SetPinMux             0x3feb    0x1c  Code  Lc  pin_mux.o [3]
 IOMUXC_SetSaiMClkClockSource
                              0x1f0d    0x40  Code  Lc  clock_config.o [3]
-KPP_IRQHandler               0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-LCDIF_IRQHandler             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
+KPP_IRQHandler               0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+LCDIF_IRQHandler             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
 LPI2C1_DriverIRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-LPI2C1_IRQHandler            0x76d9          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+LPI2C1_IRQHandler            0x7795          Code  Wk  startup_MIMXRT1052.o [10]
 LPI2C2_DriverIRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-LPI2C2_IRQHandler            0x76e1          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+LPI2C2_IRQHandler            0x779d          Code  Wk  startup_MIMXRT1052.o [10]
 LPI2C3_DriverIRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-LPI2C3_IRQHandler            0x76e9          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+LPI2C3_IRQHandler            0x77a5          Code  Wk  startup_MIMXRT1052.o [10]
 LPI2C4_DriverIRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-LPI2C4_IRQHandler            0x76f1          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+LPI2C4_IRQHandler            0x77ad          Code  Wk  startup_MIMXRT1052.o [10]
 LPSPI1_DriverIRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-LPSPI1_IRQHandler            0x76f9          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+LPSPI1_IRQHandler            0x77b5          Code  Wk  startup_MIMXRT1052.o [10]
 LPSPI2_DriverIRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-LPSPI2_IRQHandler            0x7701          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+LPSPI2_IRQHandler            0x77bd          Code  Wk  startup_MIMXRT1052.o [10]
 LPSPI3_DriverIRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-LPSPI3_IRQHandler            0x7709          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+LPSPI3_IRQHandler            0x77c5          Code  Wk  startup_MIMXRT1052.o [10]
 LPSPI4_DriverIRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-LPSPI4_IRQHandler            0x7711          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+LPSPI4_IRQHandler            0x77cd          Code  Wk  startup_MIMXRT1052.o [10]
 LPUART1_DriverIRQHandler
                              0x3609    0x14  Code  Gb  fsl_lpuart.o [8]
-LPUART1_IRQHandler           0x7699          Code  Wk  startup_MIMXRT1052.o [10]
+LPUART1_IRQHandler           0x7755          Code  Wk  startup_MIMXRT1052.o [10]
 LPUART2_DriverIRQHandler
                              0x361d    0x14  Code  Gb  fsl_lpuart.o [8]
-LPUART2_IRQHandler           0x76a1          Code  Wk  startup_MIMXRT1052.o [10]
+LPUART2_IRQHandler           0x775d          Code  Wk  startup_MIMXRT1052.o [10]
 LPUART3_DriverIRQHandler
                              0x3631    0x14  Code  Gb  fsl_lpuart.o [8]
-LPUART3_IRQHandler           0x76a9          Code  Wk  startup_MIMXRT1052.o [10]
+LPUART3_IRQHandler           0x7765          Code  Wk  startup_MIMXRT1052.o [10]
 LPUART4_DriverIRQHandler
                              0x3645    0x14  Code  Gb  fsl_lpuart.o [8]
-LPUART4_IRQHandler           0x76b1          Code  Wk  startup_MIMXRT1052.o [10]
+LPUART4_IRQHandler           0x776d          Code  Wk  startup_MIMXRT1052.o [10]
 LPUART5_DriverIRQHandler
                              0x3659    0x14  Code  Gb  fsl_lpuart.o [8]
-LPUART5_IRQHandler           0x76b9          Code  Wk  startup_MIMXRT1052.o [10]
+LPUART5_IRQHandler           0x7775          Code  Wk  startup_MIMXRT1052.o [10]
 LPUART6_DriverIRQHandler
                              0x366d    0x14  Code  Gb  fsl_lpuart.o [8]
-LPUART6_IRQHandler           0x76c1          Code  Wk  startup_MIMXRT1052.o [10]
+LPUART6_IRQHandler           0x777d          Code  Wk  startup_MIMXRT1052.o [10]
 LPUART7_DriverIRQHandler
                              0x3681    0x14  Code  Gb  fsl_lpuart.o [8]
-LPUART7_IRQHandler           0x76c9          Code  Wk  startup_MIMXRT1052.o [10]
+LPUART7_IRQHandler           0x7785          Code  Wk  startup_MIMXRT1052.o [10]
 LPUART8_DriverIRQHandler
                              0x3697    0x14  Code  Gb  fsl_lpuart.o [8]
-LPUART8_IRQHandler           0x76d1          Code  Wk  startup_MIMXRT1052.o [10]
+LPUART8_IRQHandler           0x778d          Code  Wk  startup_MIMXRT1052.o [10]
 LPUART_GetDefaultConfig
                              0x3523    0x6c  Code  Gb  fsl_lpuart.o [8]
 LPUART_GetInstance           0x3297    0x34  Code  Gb  fsl_lpuart.o [8]
@@ -921,30 +926,30 @@ MemManage_Handler            0x192f          Code  Wk  startup_MIMXRT1052.o [10]
 NCACHE_VAR$$Base        0x2020'0000           --   Gb  - Linker created -
 NCACHE_VAR$$Limit       0x2020'0020           --   Gb  - Linker created -
 NMI_Handler                  0x18f3          Code  Wk  startup_MIMXRT1052.o [10]
-PIT_IRQHandler               0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-PMU_EVENT_IRQHandler         0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-PWM1_0_IRQHandler            0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-PWM1_1_IRQHandler            0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-PWM1_2_IRQHandler            0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-PWM1_3_IRQHandler            0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-PWM1_FAULT_IRQHandler        0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-PWM2_0_IRQHandler            0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-PWM2_1_IRQHandler            0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-PWM2_2_IRQHandler            0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-PWM2_3_IRQHandler            0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-PWM2_FAULT_IRQHandler        0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-PWM3_0_IRQHandler            0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-PWM3_1_IRQHandler            0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-PWM3_2_IRQHandler            0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-PWM3_3_IRQHandler            0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-PWM3_FAULT_IRQHandler        0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-PWM4_0_IRQHandler            0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-PWM4_1_IRQHandler            0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-PWM4_2_IRQHandler            0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-PWM4_3_IRQHandler            0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-PWM4_FAULT_IRQHandler        0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-PXP_IRQHandler               0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-PendSV_Handler               0x4b31          Code  Gb  tx_thread_schedule.o [2]
+PIT_IRQHandler               0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+PMU_EVENT_IRQHandler         0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+PWM1_0_IRQHandler            0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+PWM1_1_IRQHandler            0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+PWM1_2_IRQHandler            0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+PWM1_3_IRQHandler            0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+PWM1_FAULT_IRQHandler        0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+PWM2_0_IRQHandler            0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+PWM2_1_IRQHandler            0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+PWM2_2_IRQHandler            0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+PWM2_3_IRQHandler            0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+PWM2_FAULT_IRQHandler        0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+PWM3_0_IRQHandler            0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+PWM3_1_IRQHandler            0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+PWM3_2_IRQHandler            0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+PWM3_3_IRQHandler            0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+PWM3_FAULT_IRQHandler        0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+PWM4_0_IRQHandler            0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+PWM4_1_IRQHandler            0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+PWM4_2_IRQHandler            0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+PWM4_3_IRQHandler            0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+PWM4_FAULT_IRQHandler        0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+PXP_IRQHandler               0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+PendSV_Handler               0x4b6d          Code  Gb  tx_thread_schedule.o [2]
 PrintCheckFlags               0x739    0x58  Code  Lc  fsl_str.o [11]
 PrintGetLengthFlag            0x791    0x50  Code  Lc  fsl_str.o [11]
 PrintGetPrecision             0x497    0x8a  Code  Lc  fsl_str.o [11]
@@ -957,41 +962,41 @@ PrintIsobpu                   0x521    0x2a  Code  Lc  fsl_str.o [11]
 PrintIsxX                     0x71f    0x1a  Code  Lc  fsl_str.o [11]
 PrintOutputdifFobpu           0x565    0xac  Code  Lc  fsl_str.o [11]
 PrintOutputxX                 0x611    0xf4  Code  Lc  fsl_str.o [11]
-RTWDOG_IRQHandler            0x7791          Code  Wk  startup_MIMXRT1052.o [10]
+RTWDOG_IRQHandler            0x784d          Code  Wk  startup_MIMXRT1052.o [10]
 RW$$Base                0x2000'0000           --   Gb  - Linker created -
 RW$$Limit               0x2000'0008           --   Gb  - Linker created -
-Region$$Table$$Base          0x72fc           --   Gb  - Linker created -
-Region$$Table$$Limit         0x7328           --   Gb  - Linker created -
-Reserved115_IRQHandler       0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-Reserved123_IRQHandler       0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-Reserved143_IRQHandler       0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-Reserved144_IRQHandler       0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-Reserved68_IRQHandler        0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-Reserved78_IRQHandler        0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-Reserved86_IRQHandler        0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-Reserved87_IRQHandler        0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-Reset_Handler                0x7241          Code  Wk  startup_MIMXRT1052.o [10]
-SAI1_DriverIRQHandler        0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-SAI1_IRQHandler              0x7729          Code  Wk  startup_MIMXRT1052.o [10]
-SAI2_DriverIRQHandler        0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-SAI2_IRQHandler              0x7731          Code  Wk  startup_MIMXRT1052.o [10]
+Region$$Table$$Base          0x733c           --   Gb  - Linker created -
+Region$$Table$$Limit         0x7368           --   Gb  - Linker created -
+Reserved115_IRQHandler       0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+Reserved123_IRQHandler       0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+Reserved143_IRQHandler       0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+Reserved144_IRQHandler       0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+Reserved68_IRQHandler        0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+Reserved78_IRQHandler        0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+Reserved86_IRQHandler        0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+Reserved87_IRQHandler        0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+Reset_Handler                0x7281          Code  Wk  startup_MIMXRT1052.o [10]
+SAI1_DriverIRQHandler        0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+SAI1_IRQHandler              0x77e5          Code  Wk  startup_MIMXRT1052.o [10]
+SAI2_DriverIRQHandler        0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+SAI2_IRQHandler              0x77ed          Code  Wk  startup_MIMXRT1052.o [10]
 SAI3_RX_DriverIRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-SAI3_RX_IRQHandler           0x7739          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+SAI3_RX_IRQHandler           0x77f5          Code  Wk  startup_MIMXRT1052.o [10]
 SAI3_TX_DriverIRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-SAI3_TX_IRQHandler           0x7741          Code  Wk  startup_MIMXRT1052.o [10]
-SEMC_IRQHandler              0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-SJC_IRQHandler               0x7791          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+SAI3_TX_IRQHandler           0x77fd          Code  Wk  startup_MIMXRT1052.o [10]
+SEMC_IRQHandler              0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+SJC_IRQHandler               0x784d          Code  Wk  startup_MIMXRT1052.o [10]
 SNVS_HP_WRAPPER_IRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
 SNVS_HP_WRAPPER_TZ_IRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
 SNVS_LP_WRAPPER_IRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-SPDIF_DriverIRQHandler       0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-SPDIF_IRQHandler             0x7749          Code  Wk  startup_MIMXRT1052.o [10]
-SRC_IRQHandler               0x7791          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+SPDIF_DriverIRQHandler       0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+SPDIF_IRQHandler             0x7805          Code  Wk  startup_MIMXRT1052.o [10]
+SRC_IRQHandler               0x784d          Code  Wk  startup_MIMXRT1052.o [10]
 SVC_Handler                  0x300f          Code  Wk  startup_MIMXRT1052.o [10]
 SerialManager_Init           0x2e63    0x4a  Code  Gb  fsl_component_serial_manager.o [5]
 SerialManager_OpenReadHandle
@@ -1006,37 +1011,37 @@ SerialManager_WriteBlocking
 Serial_UartInit              0x2fc7    0x26  Code  Gb  fsl_component_serial_port_uart.o [5]
 Serial_UartWrite             0x2fed    0x22  Code  Gb  fsl_component_serial_port_uart.o [5]
 StrFormatPrintf               0xb59   0x3de  Code  Gb  fsl_str.o [11]
-SysTick_Config               0x4a09    0x30  Code  Lc  tx_initialize_low_level.o [1]
-SysTick_Handler              0x4ad1     0x8  Code  Gb  tx_initialize_low_level.o [1]
+SysTick_Config               0x4a45    0x30  Code  Lc  tx_initialize_low_level.o [1]
+SysTick_Handler              0x4b0d     0x8  Code  Gb  tx_initialize_low_level.o [1]
 SystemCoreClock         0x2000'0000     0x4  Data  Gb  system_MIMXRT1052.o [7]
-SystemInit                   0x68cd    0xc4  Code  Gb  system_MIMXRT1052.o [7]
-SystemInitHook               0x69c1     0x2  Code  Wk  system_MIMXRT1052.o [7]
+SystemInit                   0x688d    0xc4  Code  Gb  system_MIMXRT1052.o [7]
+SystemInitHook               0x6981     0x2  Code  Wk  system_MIMXRT1052.o [7]
 TEMP_LOW_HIGH_IRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-TEMP_PANIC_IRQHandler        0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-TMR1_IRQHandler              0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-TMR2_IRQHandler              0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-TMR3_IRQHandler              0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-TMR4_IRQHandler              0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-TRNG_IRQHandler              0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-TSC_DIG_IRQHandler           0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-USB_OTG1_IRQHandler          0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-USB_OTG2_IRQHandler          0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-USB_PHY1_IRQHandler          0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-USB_PHY2_IRQHandler          0x7791          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+TEMP_PANIC_IRQHandler        0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+TMR1_IRQHandler              0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+TMR2_IRQHandler              0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+TMR3_IRQHandler              0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+TMR4_IRQHandler              0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+TRNG_IRQHandler              0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+TSC_DIG_IRQHandler           0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+USB_OTG1_IRQHandler          0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+USB_OTG2_IRQHandler          0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+USB_PHY1_IRQHandler          0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+USB_PHY2_IRQHandler          0x784d          Code  Wk  startup_MIMXRT1052.o [10]
 USDHC1_DriverIRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-USDHC1_IRQHandler            0x7769          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+USDHC1_IRQHandler            0x7825          Code  Wk  startup_MIMXRT1052.o [10]
 USDHC2_DriverIRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-USDHC2_IRQHandler            0x7771          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+USDHC2_IRQHandler            0x782d          Code  Wk  startup_MIMXRT1052.o [10]
 UsageFault_Handler           0x2f5f          Code  Wk  startup_MIMXRT1052.o [10]
-WDOG1_IRQHandler             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
-WDOG2_IRQHandler             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
+WDOG1_IRQHandler             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
+WDOG2_IRQHandler             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
 XBAR1_IRQ_0_1_IRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
 XBAR1_IRQ_2_3_IRQHandler
-                             0x7791          Code  Wk  startup_MIMXRT1052.o [10]
+                             0x784d          Code  Wk  startup_MIMXRT1052.o [10]
 ZI$$Base                0x2000'0008           --   Gb  - Linker created -
 ZI$$Limit               0x2000'312c           --   Gb  - Linker created -
 _SDK_AtomicLocalClearAndSet4Byte
@@ -1044,12 +1049,12 @@ _SDK_AtomicLocalClearAndSet4Byte
 _SDK_AtomicLocalClearAndSet4Byte
                              0x320d    0x18  Code  Lc  fsl_lpuart.o [8]
 _SDK_AtomicLocalClearAndSet4Byte
-                             0x3f3d    0x18  Code  Lc  pin_mux.o [3]
+                             0x3f79    0x18  Code  Lc  pin_mux.o [3]
 __NCACHE_REGION_SIZE {Abs}
                            0x4'0000          Data  Gb  <internal module>
 __NCACHE_REGION_START {Abs}
                         0x2020'0000          Data  Gb  <internal module>
-__NVIC_SetPriority           0x49dd    0x2c  Code  Lc  tx_initialize_low_level.o [1]
+__NVIC_SetPriority           0x4a19    0x2c  Code  Lc  tx_initialize_low_level.o [1]
 __RAM_VECTOR_TABLE_SIZE {Abs}
                                 0x0          Data  Gb  <internal module>
 __VECTOR_RAM {Abs}              0x0          Data  Gb  <internal module>
@@ -1068,8 +1073,8 @@ __aeabi_memcpy4              0x186d          Code  Gb  ABImemcpy.o [16]
 __aeabi_memcpy8              0x186d          Code  Gb  ABImemcpy.o [16]
 __aeabi_memset               0x2f61          Code  Gb  ABImemset.o [16]
 __aeabi_uldivmod              0xf85          Code  Gb  I64DivMod.o [16]
-__cmain                      0x7329          Code  Gb  cmain.o [16]
-__exit                       0x735d    0x14  Code  Gb  exit.o [17]
+__cmain                      0x7369          Code  Gb  cmain.o [16]
+__exit                       0x739d    0x14  Code  Gb  exit.o [17]
 __iar_Errno             0x2000'3124     0x4  Tls   Gb  errno.o [13]
 __iar_Exp64                  0x19d1   0x250  Code  Gb  iar_Exp64.o [15]
 __iar_Memset                 0x2f61          Code  Gb  ABImemset.o [16]
@@ -1077,13 +1082,13 @@ __iar_Memset4_word           0x3011          Code  Gb  ABImemset48.o [16]
 __iar_Memset8_word           0x3011          Code  Gb  ABImemset48.o [16]
 __iar_Memset_word            0x2f69          Code  Gb  ABImemset.o [16]
 __iar_copy_init3             0x1253    0x2a  Code  Gb  copy_init3.o [16]
-__iar_data_init3             0x7269    0x28  Code  Gb  data_init.o [16]
+__iar_data_init3             0x72a9    0x28  Code  Gb  data_init.o [16]
 __iar_errno_set_EDOM         0x1931     0xe  Code  Gb  errno.o [13]
 __iar_errno_set_ERANGE       0x193f     0xc  Code  Gb  errno.o [13]
 __iar_frexp                  0x196d          Code  Gb  frexp.o [15]
 __iar_frexp64                0x1955          Code  Gb  frexp.o [15]
 __iar_frexpl                 0x196d          Code  Gb  frexp.o [15]
-__iar_init_vfp               0x72d9          Code  Gb  fpinit_M.o [15]
+__iar_init_vfp               0x7319          Code  Gb  fpinit_M.o [15]
 __iar_ldexp64                0x1c95          Code  Gb  ldexp.o [15]
 __iar_modf                   0x11c5          Code  Gb  modf.o [15]
 __iar_modf64                 0x11b5          Code  Gb  modf.o [15]
@@ -1093,78 +1098,78 @@ __iar_pow64                  0x127d   0x4c4  Code  Gb  pow64.o [15]
 __iar_pow_medium             0x127d   0x4c4  Code  Gb  pow64.o [15]
 __iar_pow_medium64           0x127d   0x4c4  Code  Gb  pow64.o [15]
 __iar_pow_mediuml            0x127d   0x4c4  Code  Gb  pow64.o [15]
-__iar_program_start          0x73a9          Code  Gb  cstartup_M.o [16]
+__iar_program_start          0x7405          Code  Gb  cstartup_M.o [16]
 __iar_scalbln64              0x1c95          Code  Gb  ldexp.o [15]
 __iar_scalbn64               0x1c95          Code  Gb  ldexp.o [15]
-__iar_zero_init3             0x712d    0x38  Code  Gb  zero_init3.o [16]
-__low_level_init             0x7347     0x4  Code  Gb  low_level_init.o [13]
-__tx_PendSVHandler           0x4b31          Code  Gb  tx_thread_schedule.o [2]
+__iar_zero_init3             0x716d    0x38  Code  Gb  zero_init3.o [16]
+__low_level_init             0x7387     0x4  Code  Gb  low_level_init.o [13]
+__tx_PendSVHandler           0x4b6d          Code  Gb  tx_thread_schedule.o [2]
 __vector_table                  0x0          Data  Gb  startup_MIMXRT1052.o [10]
 __vector_table_0x1c            0x1c          Data  Gb  startup_MIMXRT1052.o [10]
-_call_main                   0x7335          Code  Gb  cmain.o [16]
-_exit                        0x7351          Code  Gb  cexit.o [16]
-_tx_block_allocate           0x5081    0x9c  Code  Gb  tx_block_allocate.o [14]
-_tx_block_pool_cleanup       0x6eb1    0x7c  Code  Gb  tx_block_pool_cleanup.o [14]
-_tx_block_pool_create        0x4fdd    0xa4  Code  Gb  tx_block_pool_create.o [14]
+_call_main                   0x7375          Code  Gb  cmain.o [16]
+_exit                        0x7391          Code  Gb  cexit.o [16]
+_tx_block_allocate           0x50bd    0x9c  Code  Gb  tx_block_allocate.o [14]
+_tx_block_pool_cleanup       0x6ef1    0x7c  Code  Gb  tx_block_pool_cleanup.o [14]
+_tx_block_pool_create        0x5019    0xa4  Code  Gb  tx_block_pool_create.o [14]
 _tx_block_pool_created_count
                         0x2000'2b04     0x4  Data  Gb  tx_initialize_high_level.o [14]
 _tx_block_pool_created_ptr
                         0x2000'2b00     0x4  Data  Gb  tx_initialize_high_level.o [14]
-_tx_block_release            0x511d    0x64  Code  Gb  tx_block_release.o [14]
+_tx_block_release            0x5159    0x64  Code  Gb  tx_block_release.o [14]
 _tx_build_options       0x2000'2b30     0x4  Data  Gb  tx_thread_initialize.o [14]
-_tx_byte_allocate            0x4c85    0xc4  Code  Gb  tx_byte_allocate.o [14]
-_tx_byte_pool_cleanup        0x6f2d    0x7c  Code  Gb  tx_byte_pool_cleanup.o [14]
-_tx_byte_pool_create         0x4c05    0x80  Code  Gb  tx_byte_pool_create.o [14]
+_tx_byte_allocate            0x4cc1    0xc4  Code  Gb  tx_byte_allocate.o [14]
+_tx_byte_pool_cleanup        0x6f6d    0x7c  Code  Gb  tx_byte_pool_cleanup.o [14]
+_tx_byte_pool_create         0x4c41    0x80  Code  Gb  tx_byte_pool_create.o [14]
 _tx_byte_pool_created_count
                         0x2000'2b0c     0x4  Data  Gb  tx_initialize_high_level.o [14]
 _tx_byte_pool_created_ptr
                         0x2000'2b08     0x4  Data  Gb  tx_initialize_high_level.o [14]
-_tx_byte_pool_search         0x5e59    0xf8  Code  Gb  tx_byte_pool_search.o [14]
+_tx_byte_pool_search         0x5e95    0xf8  Code  Gb  tx_byte_pool_search.o [14]
 _tx_event_flags_cleanup
-                             0x6da9    0x84  Code  Gb  tx_event_flags_cleanup.o [14]
-_tx_event_flags_create       0x4f31    0x4c  Code  Gb  tx_event_flags_create.o [14]
+                             0x6d69    0x84  Code  Gb  tx_event_flags_cleanup.o [14]
+_tx_event_flags_create       0x4f6d    0x4c  Code  Gb  tx_event_flags_create.o [14]
 _tx_event_flags_created_count
                         0x2000'2af4     0x4  Data  Gb  tx_initialize_high_level.o [14]
 _tx_event_flags_created_ptr
                         0x2000'2af0     0x4  Data  Gb  tx_initialize_high_level.o [14]
-_tx_event_flags_get          0x58f9    0xe0  Code  Gb  tx_event_flags_get.o [14]
-_tx_event_flags_set          0x531d   0x1c8  Code  Gb  tx_event_flags_set.o [14]
+_tx_event_flags_get          0x5935    0xe0  Code  Gb  tx_event_flags_get.o [14]
+_tx_event_flags_set          0x5359   0x1c8  Code  Gb  tx_event_flags_set.o [14]
 _tx_initialize_high_level
-                             0x4ad9    0x2c  Code  Gb  tx_initialize_high_level.o [14]
+                             0x4b15    0x2c  Code  Gb  tx_initialize_high_level.o [14]
 _tx_initialize_kernel_enter
-                             0x4065    0x44  Code  Gb  tx_initialize_kernel_enter.o [14]
+                             0x40a1    0x44  Code  Gb  tx_initialize_kernel_enter.o [14]
 _tx_initialize_low_level
-                             0x4a41    0x6c  Code  Gb  tx_initialize_low_level.o [1]
+                             0x4a7d    0x6c  Code  Gb  tx_initialize_low_level.o [1]
 _tx_initialize_unused_memory
                         0x2000'2b10     0x4  Data  Gb  tx_initialize_high_level.o [14]
-_tx_mutex_cleanup            0x69c5    0x70  Code  Gb  tx_mutex_cleanup.o [14]
-_tx_mutex_create             0x4f7d    0x60  Code  Gb  tx_mutex_create.o [14]
+_tx_mutex_cleanup            0x6985    0x70  Code  Gb  tx_mutex_cleanup.o [14]
+_tx_mutex_create             0x4fb9    0x60  Code  Gb  tx_mutex_create.o [14]
 _tx_mutex_created_count
                         0x2000'2afc     0x4  Data  Gb  tx_initialize_high_level.o [14]
 _tx_mutex_created_ptr   0x2000'2af8     0x4  Data  Gb  tx_initialize_high_level.o [14]
-_tx_mutex_get                0x59d9   0x110  Code  Gb  tx_mutex_get.o [14]
-_tx_mutex_prioritize         0x61e1    0x9c  Code  Gb  tx_mutex_prioritize.o [14]
+_tx_mutex_get                0x5a15   0x110  Code  Gb  tx_mutex_get.o [14]
+_tx_mutex_prioritize         0x621d    0x9c  Code  Gb  tx_mutex_prioritize.o [14]
 _tx_mutex_priority_change
-                             0x6115    0xcc  Code  Gb  tx_mutex_priority_change.o [14]
-_tx_mutex_put                0x5ae9   0x1c6  Code  Gb  tx_mutex_put.o [14]
+                             0x6151    0xcc  Code  Gb  tx_mutex_priority_change.o [14]
+_tx_mutex_put                0x5b25   0x1c6  Code  Gb  tx_mutex_put.o [14]
 _tx_mutex_thread_release
-                             0x6a35    0x3e  Code  Gb  tx_mutex_cleanup.o [14]
-_tx_queue_cleanup            0x6e2d    0x84  Code  Gb  tx_queue_cleanup.o [14]
-_tx_queue_create             0x4e6d    0x74  Code  Gb  tx_queue_create.o [14]
+                             0x69f5    0x3e  Code  Gb  tx_mutex_cleanup.o [14]
+_tx_queue_cleanup            0x6ded    0x84  Code  Gb  tx_queue_cleanup.o [14]
+_tx_queue_create             0x4ea9    0x74  Code  Gb  tx_queue_create.o [14]
 _tx_queue_created_count
                         0x2000'2aec     0x4  Data  Gb  tx_initialize_high_level.o [14]
 _tx_queue_created_ptr   0x2000'2ae8     0x4  Data  Gb  tx_initialize_high_level.o [14]
-_tx_queue_receive            0x5639   0x1c8  Code  Gb  tx_queue_receive.o [14]
-_tx_queue_send               0x54e5   0x154  Code  Gb  tx_queue_send.o [14]
-_tx_semaphore_cleanup        0x6fa9    0x7c  Code  Gb  tx_semaphore_cleanup.o [14]
-_tx_semaphore_create         0x4ee1    0x50  Code  Gb  tx_semaphore_create.o [14]
+_tx_queue_receive            0x5675   0x1c8  Code  Gb  tx_queue_receive.o [14]
+_tx_queue_send               0x5521   0x154  Code  Gb  tx_queue_send.o [14]
+_tx_semaphore_cleanup        0x6fe9    0x7c  Code  Gb  tx_semaphore_cleanup.o [14]
+_tx_semaphore_create         0x4f1d    0x50  Code  Gb  tx_semaphore_create.o [14]
 _tx_semaphore_created_count
                         0x2000'2ae4     0x4  Data  Gb  tx_initialize_high_level.o [14]
 _tx_semaphore_created_ptr
                         0x2000'2ae0     0x4  Data  Gb  tx_initialize_high_level.o [14]
-_tx_semaphore_get            0x5801    0x90  Code  Gb  tx_semaphore_get.o [14]
-_tx_semaphore_put            0x5891    0x68  Code  Gb  tx_semaphore_put.o [14]
-_tx_thread_create            0x4d49   0x124  Code  Gb  tx_thread_create.o [14]
+_tx_semaphore_get            0x583d    0x90  Code  Gb  tx_semaphore_get.o [14]
+_tx_semaphore_put            0x58cd    0x68  Code  Gb  tx_semaphore_put.o [14]
+_tx_thread_create            0x4d85   0x124  Code  Gb  tx_thread_create.o [14]
 _tx_thread_created_count
                         0x2000'2b20     0x4  Data  Gb  tx_thread_initialize.o [14]
 _tx_thread_created_ptr  0x2000'2b1c     0x4  Data  Gb  tx_thread_initialize.o [14]
@@ -1172,7 +1177,7 @@ _tx_thread_current_ptr  0x2000'2b14     0x4  Data  Gb  tx_thread_initialize.o [1
 _tx_thread_execute_ptr  0x2000'2b18     0x4  Data  Gb  tx_thread_initialize.o [14]
 _tx_thread_highest_priority
                         0x2000'2b24     0x4  Data  Gb  tx_thread_initialize.o [14]
-_tx_thread_initialize        0x5d79    0x40  Code  Gb  tx_thread_initialize.o [14]
+_tx_thread_initialize        0x5db5    0x40  Code  Gb  tx_thread_initialize.o [14]
 _tx_thread_mutex_release
                         0x2000'2b2c     0x4  Data  Gb  tx_thread_initialize.o [14]
 _tx_thread_preempt_disable
@@ -1183,33 +1188,33 @@ _tx_thread_priority_list
                         0x2000'2b3c    0x80  Data  Gb  tx_thread_initialize.o [14]
 _tx_thread_priority_maps
                         0x2000'2b34     0x4  Data  Gb  tx_thread_initialize.o [14]
-_tx_thread_schedule          0x4b05          Code  Gb  tx_thread_schedule.o [2]
-_tx_thread_shell_entry       0x7025    0x7c  Code  Gb  tx_thread_shell_entry.o [14]
-_tx_thread_sleep             0x473d    0x80  Code  Gb  tx_thread_sleep.o [14]
-_tx_thread_stack_build       0x5f51          Code  Gb  tx_thread_stack_build.o [2]
+_tx_thread_schedule          0x4b41          Code  Gb  tx_thread_schedule.o [2]
+_tx_thread_shell_entry       0x7065    0x7c  Code  Gb  tx_thread_shell_entry.o [14]
+_tx_thread_sleep             0x4779    0x80  Code  Gb  tx_thread_sleep.o [14]
+_tx_thread_stack_build       0x5f8d          Code  Gb  tx_thread_stack_build.o [2]
 _tx_thread_system_preempt_check
-                             0x4bc5    0x40  Code  Gb  tx_thread_system_preempt_check.o [14]
+                             0x4c01    0x40  Code  Gb  tx_thread_system_preempt_check.o [14]
 _tx_thread_system_resume
-                             0x5f95   0x120  Code  Gb  tx_thread_system_resume.o [14]
+                             0x5fd1   0x120  Code  Gb  tx_thread_system_resume.o [14]
 _tx_thread_system_state
                         0x2000'0004     0x4  Data  Gb  tx_thread_initialize.o [14]
 _tx_thread_system_suspend
-                             0x5181   0x19c  Code  Gb  tx_thread_system_suspend.o [14]
-_tx_thread_time_slice        0x629d    0x64  Code  Gb  tx_thread_time_slice.o [14]
-_tx_thread_timeout           0x7165    0x34  Code  Gb  tx_thread_timeout.o [14]
+                             0x51bd   0x19c  Code  Gb  tx_thread_system_suspend.o [14]
+_tx_thread_time_slice        0x62d9    0x64  Code  Gb  tx_thread_time_slice.o [14]
+_tx_thread_timeout           0x71a5    0x34  Code  Gb  tx_thread_timeout.o [14]
 _tx_timer_created_count
                         0x2000'2bd8     0x4  Data  Gb  tx_timer_initialize.o [14]
 _tx_timer_created_ptr   0x2000'2bd4     0x4  Data  Gb  tx_timer_initialize.o [14]
 _tx_timer_current_ptr   0x2000'2bcc     0x4  Data  Gb  tx_timer_initialize.o [14]
 _tx_timer_expiration_process
-                             0x627d    0x20  Code  Gb  tx_timer_expiration_process.o [14]
+                             0x62b9    0x20  Code  Gb  tx_timer_expiration_process.o [14]
 _tx_timer_expired       0x2000'2bd0     0x4  Data  Gb  tx_timer_initialize.o [14]
 _tx_timer_expired_time_slice
                         0x2000'2bc0     0x4  Data  Gb  tx_timer_initialize.o [14]
 _tx_timer_expired_timer_ptr
                         0x2000'2bdc     0x4  Data  Gb  tx_timer_initialize.o [14]
-_tx_timer_initialize         0x5db9    0x7e  Code  Gb  tx_timer_initialize.o [14]
-_tx_timer_interrupt          0x5cc1          Code  Gb  tx_timer_interrupt.o [2]
+_tx_timer_initialize         0x5df5    0x7e  Code  Gb  tx_timer_initialize.o [14]
+_tx_timer_interrupt          0x5cfd          Code  Gb  tx_timer_interrupt.o [2]
 _tx_timer_list          0x2000'2bf0    0x80  Data  Gb  tx_timer_initialize.o [14]
 _tx_timer_list_end      0x2000'2bc8     0x4  Data  Gb  tx_timer_initialize.o [14]
 _tx_timer_list_start    0x2000'2bc4     0x4  Data  Gb  tx_timer_initialize.o [14]
@@ -1217,40 +1222,40 @@ _tx_timer_priority      0x2000'2be8     0x4  Data  Gb  tx_timer_initialize.o [14
 _tx_timer_stack_size    0x2000'2be4     0x4  Data  Gb  tx_timer_initialize.o [14]
 _tx_timer_stack_start   0x2000'2be0     0x4  Data  Gb  tx_timer_initialize.o [14]
 _tx_timer_system_activate
-                             0x60b5    0x60  Code  Gb  tx_timer_system_activate.o [14]
+                             0x60f1    0x60  Code  Gb  tx_timer_system_activate.o [14]
 _tx_timer_system_clock  0x2000'2bbc     0x4  Data  Gb  tx_timer_initialize.o [14]
 _tx_timer_system_deactivate
-                             0x6301    0x2c  Code  Gb  tx_timer_system_deactivate.o [14]
+                             0x633d    0x2c  Code  Gb  tx_timer_system_deactivate.o [14]
 _tx_timer_thread        0x2000'2c70    0xb4  Data  Gb  tx_timer_initialize.o [14]
-_tx_timer_thread_entry       0x67c9   0x104  Code  Gb  tx_timer_thread_entry.o [14]
+_tx_timer_thread_entry       0x6789   0x104  Code  Gb  tx_timer_thread_entry.o [14]
 _tx_timer_thread_stack_area
                         0x2000'2d24   0x400  Data  Gb  tx_timer_initialize.o [14]
 _tx_timer_time_slice    0x2000'2bec     0x4  Data  Gb  tx_timer_initialize.o [14]
-_txe_block_allocate          0x46cd    0x50  Code  Gb  txe_block_allocate.o [14]
-_txe_block_pool_create       0x45f9    0xd4  Code  Gb  txe_block_pool_create.o [14]
-_txe_block_release           0x471d    0x20  Code  Gb  txe_block_release.o [14]
-_txe_byte_allocate           0x4169    0x80  Code  Gb  txe_byte_allocate.o [14]
-_txe_byte_pool_create        0x40a9    0xc0  Code  Gb  txe_byte_pool_create.o [14]
+_txe_block_allocate          0x4709    0x50  Code  Gb  txe_block_allocate.o [14]
+_txe_block_pool_create       0x4635    0xd4  Code  Gb  txe_block_pool_create.o [14]
+_txe_block_release           0x4759    0x20  Code  Gb  txe_block_release.o [14]
+_txe_byte_allocate           0x41a5    0x80  Code  Gb  txe_byte_allocate.o [14]
+_txe_byte_pool_create        0x40e5    0xc0  Code  Gb  txe_byte_pool_create.o [14]
 _txe_event_flags_create
-                             0x44a1    0xa4  Code  Gb  txe_event_flags_create.o [14]
-_txe_event_flags_get         0x48e9    0x54  Code  Gb  txe_event_flags_get.o [14]
-_txe_event_flags_set         0x47bd    0x2c  Code  Gb  txe_event_flags_set.o [14]
-_txe_mutex_create            0x4545    0xb4  Code  Gb  txe_mutex_create.o [14]
-_txe_mutex_get               0x493d    0x68  Code  Gb  txe_mutex_get.o [14]
-_txe_mutex_put               0x49a5    0x38  Code  Gb  txe_mutex_put.o [14]
-_txe_queue_create            0x432d    0xd4  Code  Gb  txe_queue_create.o [14]
-_txe_queue_receive           0x4839    0x50  Code  Gb  txe_queue_receive.o [14]
-_txe_queue_send              0x47e9    0x50  Code  Gb  txe_queue_send.o [14]
-_txe_semaphore_create        0x4401    0xa0  Code  Gb  txe_semaphore_create.o [14]
-_txe_semaphore_get           0x4889    0x48  Code  Gb  txe_semaphore_get.o [14]
-_txe_semaphore_put           0x48d1    0x18  Code  Gb  txe_semaphore_put.o [14]
-_txe_thread_create           0x41e9   0x144  Code  Gb  txe_thread_create.o [14]
+                             0x44dd    0xa4  Code  Gb  txe_event_flags_create.o [14]
+_txe_event_flags_get         0x4925    0x54  Code  Gb  txe_event_flags_get.o [14]
+_txe_event_flags_set         0x47f9    0x2c  Code  Gb  txe_event_flags_set.o [14]
+_txe_mutex_create            0x4581    0xb4  Code  Gb  txe_mutex_create.o [14]
+_txe_mutex_get               0x4979    0x68  Code  Gb  txe_mutex_get.o [14]
+_txe_mutex_put               0x49e1    0x38  Code  Gb  txe_mutex_put.o [14]
+_txe_queue_create            0x4369    0xd4  Code  Gb  txe_queue_create.o [14]
+_txe_queue_receive           0x4875    0x50  Code  Gb  txe_queue_receive.o [14]
+_txe_queue_send              0x4825    0x50  Code  Gb  txe_queue_send.o [14]
+_txe_semaphore_create        0x443d    0xa0  Code  Gb  txe_semaphore_create.o [14]
+_txe_semaphore_get           0x48c5    0x48  Code  Gb  txe_semaphore_get.o [14]
+_txe_semaphore_put           0x490d    0x18  Code  Gb  txe_semaphore_put.o [14]
+_txe_thread_create           0x4225   0x144  Code  Gb  txe_thread_create.o [14]
 armPllConfig_BOARD_BootClockRUN
-                             0x75f8     0x8  Data  Gb  clock_config.o [3]
+                             0x76b4     0x8  Data  Gb  clock_config.o [3]
 block_pool_0            0x2000'06e8    0x30  Data  Gb  threadx_demo.o [9]
 byte_pool_0             0x2000'06b4    0x34  Data  Gb  threadx_demo.o [9]
 event_flags_0           0x2000'068c    0x28  Data  Gb  threadx_demo.o [9]
-exit                         0x734b     0x4  Code  Gb  exit.o [13]
+exit                         0x738b     0x4  Code  Gb  exit.o [13]
 frexp                        0x1955          Code  Gb  frexp.o [15]
 frexpl                       0x1955          Code  Gb  frexp.o [15]
 g_rtcXtalFreq           0x2000'000c     0x4  Data  Gb  fsl_clock.o [8]
@@ -1258,7 +1263,7 @@ g_serialHandle          0x2000'0010     0x4  Data  Gb  fsl_debug_console.o [11]
 g_xtalFreq              0x2000'0008     0x4  Data  Gb  fsl_clock.o [8]
 ldexp                        0x1c95          Code  Gb  ldexp.o [15]
 ldexpl                       0x1c95          Code  Gb  ldexp.o [15]
-lnbias                       0x63a8   0x420  Data  Lc  pow64.o [15]
+lnbias                       0x6368   0x420  Data  Lc  pow64.o [15]
 main                         0x36d5    0x22  Code  Gb  threadx_demo.o [9]
 mem_pool                0x2000'0740  0x23a0  Data  Gb  threadx_demo.o [9]
 modf                         0x11b5          Code  Gb  modf.o [15]
@@ -1267,12 +1272,12 @@ mutex_0                 0x2000'0658    0x34  Data  Gb  threadx_demo.o [9]
 pow                          0x127d   0x4c4  Code  Gb  pow64.o [15]
 powl                         0x127d   0x4c4  Code  Gb  pow64.o [15]
 queue_0                 0x2000'05fc    0x3c  Data  Gb  threadx_demo.o [9]
-s_LpuartAdapterBase          0x7290    0x24  Data  Lc  fsl_adapter_lpuart.o [6]
+s_LpuartAdapterBase          0x72d0    0x24  Data  Lc  fsl_adapter_lpuart.o [6]
 s_debugConsoleReadWaitSemaphore
                         0x2000'3128     0x1  Data  Lc  fsl_debug_console.o [11]
 s_debugConsoleState     0x2020'0000    0x20  Data  Lc  fsl_debug_console.o [11]
-s_lpuartBases                0x72b4    0x24  Data  Lc  fsl_lpuart.o [8]
-s_lpuartClock                0x74ac    0x14  Data  Lc  fsl_lpuart.o [8]
+s_lpuartBases                0x72f4    0x24  Data  Lc  fsl_lpuart.o [8]
+s_lpuartClock                0x7568    0x14  Data  Lc  fsl_lpuart.o [8]
 s_lpuartHandle          0x2000'0014    0x24  Data  Gb  fsl_lpuart.o [8]
 s_lpuartIsr             0x2000'0038    0x24  Data  Gb  fsl_lpuart.o [8]
 scalbln                      0x1c95          Code  Gb  ldexp.o [15]
@@ -1282,59 +1287,59 @@ scalbnl                      0x1c95          Code  Gb  ldexp.o [15]
 semaphore_0             0x2000'0638    0x20  Data  Gb  threadx_demo.o [9]
 strlen                       0x18f5          Code  Gb  strlen.o [16]
 sysPllConfig_BOARD_BootClockRUN
-                             0x7484    0x14  Data  Gb  clock_config.o [3]
+                             0x7540    0x14  Data  Gb  clock_config.o [3]
 thread_0                0x2000'005c    0xb4  Data  Gb  threadx_demo.o [9]
 thread_0_counter        0x2000'0718     0x4  Data  Gb  threadx_demo.o [9]
-thread_0_entry               0x3971    0x2a  Code  Gb  threadx_demo.o [9]
+thread_0_entry               0x3975    0x30  Code  Gb  threadx_demo.o [9]
 thread_1                0x2000'0110    0xb4  Data  Gb  threadx_demo.o [9]
 thread_1_counter        0x2000'071c     0x4  Data  Gb  threadx_demo.o [9]
-thread_1_entry               0x399d    0x30  Code  Gb  threadx_demo.o [9]
+thread_1_entry               0x39a5    0x36  Code  Gb  threadx_demo.o [9]
 thread_1_messages_sent  0x2000'0720     0x4  Data  Gb  threadx_demo.o [9]
 thread_2                0x2000'01c4    0xb4  Data  Gb  threadx_demo.o [9]
 thread_2_counter        0x2000'0724     0x4  Data  Gb  threadx_demo.o [9]
-thread_2_entry               0x39cd    0x3a  Code  Gb  threadx_demo.o [9]
+thread_2_entry               0x39dd    0x40  Code  Gb  threadx_demo.o [9]
 thread_2_messages_received
                         0x2000'0728     0x4  Data  Gb  threadx_demo.o [9]
 thread_3                0x2000'0278    0xb4  Data  Gb  threadx_demo.o [9]
-thread_3_and_4_entry         0x3a09    0x48  Code  Gb  threadx_demo.o [9]
+thread_3_and_4_entry         0x3a1d    0x50  Code  Gb  threadx_demo.o [9]
 thread_3_counter        0x2000'072c     0x4  Data  Gb  threadx_demo.o [9]
 thread_4                0x2000'032c    0xb4  Data  Gb  threadx_demo.o [9]
 thread_4_counter        0x2000'0730     0x4  Data  Gb  threadx_demo.o [9]
 thread_5                0x2000'03e0    0xb4  Data  Gb  threadx_demo.o [9]
 thread_5_counter        0x2000'0734     0x4  Data  Gb  threadx_demo.o [9]
-thread_5_entry               0x3a51    0x32  Code  Gb  threadx_demo.o [9]
+thread_5_entry               0x3a6d    0x38  Code  Gb  threadx_demo.o [9]
 thread_6                0x2000'0494    0xb4  Data  Gb  threadx_demo.o [9]
-thread_6_and_7_entry         0x3a85    0x64  Code  Gb  threadx_demo.o [9]
+thread_6_and_7_entry         0x3aa5    0x6c  Code  Gb  threadx_demo.o [9]
 thread_6_counter        0x2000'0738     0x4  Data  Gb  threadx_demo.o [9]
 thread_7                0x2000'0548    0xb4  Data  Gb  threadx_demo.o [9]
 thread_7_counter        0x2000'073c     0x4  Data  Gb  threadx_demo.o [9]
-tx_application_define        0x36f7   0x278  Code  Gb  threadx_demo.o [9]
-tx_thread_fpu_disable        0x4bb3          Code  Gb  tx_thread_schedule.o [2]
-tx_thread_fpu_enable         0x4bb3          Code  Gb  tx_thread_schedule.o [2]
+tx_application_define        0x36f7   0x27c  Code  Gb  threadx_demo.o [9]
+tx_thread_fpu_disable        0x4bef          Code  Gb  tx_thread_schedule.o [2]
+tx_thread_fpu_enable         0x4bef          Code  Gb  tx_thread_schedule.o [2]
 usb1PllConfig_BOARD_BootClockRUN
                              0x17f6     0x2  Data  Gb  clock_config.o [3]
 
 
-[1] = C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\azure-rtos\threadx\ports\common
-[2] = C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\azure-rtos\threadx\ports\cortex_m7\iar\src
-[3] = C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\board
-[4] = C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\component\lists
-[5] = C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\component\serial_manager
-[6] = C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\component\uart
-[7] = C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\device
-[8] = C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\drivers
-[9] = C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\source
-[10] = C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\startup
-[11] = C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\utilities
-[12] = C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\debug\obj\xip
+[1] = C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\azure-rtos\threadx\ports\common
+[2] = C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\azure-rtos\threadx\ports\cortex_m7\iar\src
+[3] = C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\board
+[4] = C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\component\lists
+[5] = C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\component\serial_manager
+[6] = C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\component\uart
+[7] = C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\device
+[8] = C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\drivers
+[9] = C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\source
+[10] = C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\startup
+[11] = C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\utilities
+[12] = C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_demo_branch_1\Debug\obj\xip
 [13] = dl7M_tln.a
 [14] = libthreadx.a
 [15] = m7M_tlv.a
 [16] = rt7M_tl.a
 [17] = shb_l.a
 
-  27'544 bytes of readonly  code memory
-   3'068 bytes of readonly  data memory
+  27'604 bytes of readonly  code memory
+   3'196 bytes of readonly  data memory
   14'665 bytes of readwrite data memory
 
 Errors: none

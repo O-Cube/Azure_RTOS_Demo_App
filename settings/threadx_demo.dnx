@@ -1,20 +1,20 @@
 <?xml version="1.0"?>
 <settings>
     <DebugChecksum>
-        <Checksum>1359515588</Checksum>
+        <Checksum>3380013933</Checksum>
     </DebugChecksum>
     <Jet>
+        <JetConnSerialNo>CMSIS-DAP:0227000047784e4500119003d7450025ddb1000097969900</JetConnSerialNo>
+        <JetConnFoundProbes />
+        <PrevWtdReset>System</PrevWtdReset>
         <DisableInterrupts>0</DisableInterrupts>
         <LeaveRunning>0</LeaveRunning>
         <MultiCoreRunAll>0</MultiCoreRunAll>
         <OnlineReset>Software</OnlineReset>
-        <JetConnSerialNo>CMSIS-DAP:0227000047784e4500119003d7450025ddb1000097969900</JetConnSerialNo>
-        <JetConnFoundProbes />
-        <PrevWtdReset>System</PrevWtdReset>
     </Jet>
     <PlDriver>
-        <MemConfigValue>C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\CONFIG\debugger\NXP\MIMXRT1052xxx6B.ddf</MemConfigValue>
         <FirstRun>0</FirstRun>
+        <MemConfigValue>C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\CONFIG\debugger\NXP\MIMXRT1052xxx6B.ddf</MemConfigValue>
     </PlDriver>
     <Disassembly>
         <MixedMode>1</MixedMode>
@@ -54,6 +54,11 @@
         <EnableCache>1</EnableCache>
         <EnforceMemoryConfiguration>1</EnforceMemoryConfiguration>
     </ArmDriver>
+    <LogFile>
+        <LoggingEnabled>_ 0</LoggingEnabled>
+        <LogFile>_ "$PROJ_DIR$\LogFile1.log"</LogFile>
+        <Category2>_ 2</Category2>
+    </LogFile>
     <Trace1>
         <Enabled>0</Enabled>
         <ShowSource>1</ShowSource>
@@ -98,9 +103,4 @@
         <Count>0</Count>
         <SuppressDialog>0</SuppressDialog>
     </Aliases>
-    <LogFile>
-        <LoggingEnabled>_ 0</LoggingEnabled>
-        <LogFile>_ "$PROJ_DIR$\LogFile1.log"</LogFile>
-        <Category2>_ 2</Category2>
-    </LogFile>
 </settings>
