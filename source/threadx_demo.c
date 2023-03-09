@@ -185,6 +185,9 @@ void thread_0_entry(ULONG thread_input)
     /* This thread simply sits in while-forever-sleep loop.  */
     while (1)
     {
+        /* print to terminal where execution is   */
+        PRINTF("Executing thread 0\r\n");
+        
         /* Increment the thread counter.  */
         thread_0_counter++;
 
@@ -209,6 +212,10 @@ void thread_1_entry(ULONG thread_input)
     /* This thread simply sends messages to a queue shared by thread 2.  */
     while (1)
     {
+      
+        /* print to terminal where execution is   */
+        PRINTF("Executing thread 1\r\n");
+        
         /* Increment the thread counter.  */
         thread_1_counter++;
 
@@ -234,6 +241,9 @@ void thread_2_entry(ULONG thread_input)
     /* This thread retrieves messages placed on the queue by thread 1.  */
     while (1)
     {
+        /* print to terminal where execution is   */
+        PRINTF("Executing thread 2\r\n");
+        
         /* Increment the thread counter.  */
         thread_2_counter++;
 
@@ -260,6 +270,9 @@ void thread_3_and_4_entry(ULONG thread_input)
        below shows, these function compete for ownership of semaphore_0.  */
     while (1)
     {
+        /* print to terminal where execution is   */
+        PRINTF("Executing thread %d\r\n", thread_input);
+        
         /* Increment the thread counter.  */
         if (thread_input == 3)
             thread_3_counter++;
@@ -295,6 +308,9 @@ void thread_5_entry(ULONG thread_input)
     /* This thread simply waits for an event in a forever loop.  */
     while (1)
     {
+        /* print to terminal where execution is   */
+        PRINTF("Executing thread 5\r\n");
+        
         /* Increment the thread counter.  */
         thread_5_counter++;
 
@@ -317,6 +333,9 @@ void thread_6_and_7_entry(ULONG thread_input)
        below shows, these function compete for ownership of mutex_0.  */
     while (1)
     {
+        /* print to terminal where execution is   */
+        PRINTF("Executing thread %d\r\n", thread_input);
+        
         /* Increment the thread counter.  */
         if (thread_input == 6)
             thread_6_counter++;

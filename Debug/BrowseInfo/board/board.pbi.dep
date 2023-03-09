@@ -1,6 +1,6 @@
-C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\Debug\BrowseInfo\board\board.pbi: \
-  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\board\board.c \
-  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\drivers\fsl_common.h \
+C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\Debug\BrowseInfo\board\board.pbi: \
+  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\board\board.c \
+  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\drivers\fsl_common.h \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\assert.h \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\ycheck.h \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\yvals.h \
@@ -15,27 +15,27 @@ C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\stdlib.h \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\DLib_Product_stdlib.h \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\stddef.h \
-  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\device\fsl_device_registers.h \
-  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\device\MIMXRT1052.h \
-  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\CMSIS\core_cm7.h \
-  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\CMSIS\cmsis_version.h \
-  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\CMSIS\cmsis_compiler.h \
-  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\CMSIS\cmsis_iccarm.h \
+  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\device\fsl_device_registers.h \
+  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\device\MIMXRT1052.h \
+  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\CMSIS\core_cm7.h \
+  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\CMSIS\cmsis_version.h \
+  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\CMSIS\cmsis_compiler.h \
+  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\CMSIS\cmsis_iccarm.h \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\aarch32\iccarm_builtin.h \
-  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\CMSIS\mpu_armv7.h \
-  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\CMSIS\cachel1_armv7.h \
-  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\device\system_MIMXRT1052.h \
-  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\device\MIMXRT1052_features.h \
-  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\drivers\fsl_common_arm.h \
-  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\drivers\fsl_clock.h \
-  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\drivers\fsl_common.h \
-  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\utilities\fsl_debug_console.h \
-  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\component\serial_manager\fsl_component_serial_manager.h \
-  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\component\serial_manager\fsl_component_serial_port_uart.h \
-  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\component\uart\fsl_adapter_uart.h \
+  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\CMSIS\mpu_armv7.h \
+  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\CMSIS\cachel1_armv7.h \
+  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\device\system_MIMXRT1052.h \
+  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\device\MIMXRT1052_features.h \
+  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\drivers\fsl_common_arm.h \
+  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\drivers\fsl_clock.h \
+  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\drivers\fsl_common.h \
+  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\utilities\fsl_debug_console.h \
+  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\component\serial_manager\fsl_component_serial_manager.h \
+  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\component\serial_manager\fsl_component_serial_port_uart.h \
+  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\component\uart\fsl_adapter_uart.h \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\stdarg.h \
-  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\board\board.h \
-  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\board\clock_config.h \
-  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\drivers\fsl_gpio.h \
-  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\drivers\fsl_clock.h \
-  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\drivers\fsl_iomuxc.h
+  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\board\board.h \
+  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\board\clock_config.h \
+  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\drivers\fsl_gpio.h \
+  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\drivers\fsl_clock.h \
+  C:\Users\obed.oyandut\OneDrive\ -\ D.Med\ Consulting\ GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\drivers\fsl_iomuxc.h

@@ -25,7 +25,7 @@ if not "%~1" == "" goto debugFile
 
 @echo on 
 
-"C:\Program Files\IAR Systems\Embedded Workbench 9.1\common\bin\cspybat" -f "C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\settings\threadx_demo.debug.general.xcl" --backend -f "C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\settings\threadx_demo.debug.driver.xcl" 
+"C:\Program Files\IAR Systems\Embedded Workbench 9.1\common\bin\cspybat" -f "C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\settings\threadx_demo.debug.general.xcl" --backend -f "C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\settings\threadx_demo.debug.driver.xcl" 
 
 @echo off 
 goto end 
@@ -34,7 +34,7 @@ goto end
 
 @echo on 
 
-"C:\Program Files\IAR Systems\Embedded Workbench 9.1\common\bin\cspybat" -f "C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\settings\threadx_demo.debug.general.xcl" "--debug_file=%~1" --backend -f "C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\settings\threadx_demo.debug.driver.xcl" 
+"C:\Program Files\IAR Systems\Embedded Workbench 9.1\common\bin\cspybat" -f "C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\settings\threadx_demo.debug.general.xcl" "--debug_file=%~1" --backend -f "C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\settings\threadx_demo.debug.driver.xcl" 
 
 @echo off 
 :end

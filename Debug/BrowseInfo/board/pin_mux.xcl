@@ -1,39 +1,39 @@
-"C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\board\pin_mux.c"
+"C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\board\pin_mux.c"
 -std=c11
 -ferror-limit=0
 -fbracket-depth=512
 -funsigned-char
 -MD
 -MF
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\Debug\BrowseInfo\board\pin_mux.pbi.dep
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\Debug\BrowseInfo\board\pin_mux.pbi.dep
 -o
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\Debug\BrowseInfo\board\pin_mux.pbi
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\Debug\BrowseInfo\board\pin_mux.pbi
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\board
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\board
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App/board\
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified/board\
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App/CMSIS\
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified/CMSIS\
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App/azure-rtos/config\
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified/azure-rtos/config\
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App/azure-rtos/threadx/common/inc\
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified/azure-rtos/threadx/common/inc\
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App/azure-rtos/threadx/ports/cortex_m7/iar/inc\
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified/azure-rtos/threadx/ports/cortex_m7/iar/inc\
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App/component/lists\
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified/component/lists\
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App/component/serial_manager\
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified/component/serial_manager\
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App/component/uart\
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified/component/uart\
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App/device\
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified/device\
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App/drivers\
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified/drivers\
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App/utilities\
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified/utilities\
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App/xip\
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified/xip\
 -I
 C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\inc\c\aarch32
 -I
@@ -41,29 +41,29 @@ C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\inc
 -I
 C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\inc\c
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\board
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\board
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\CMSIS
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\CMSIS
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\azure-rtos\config
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\azure-rtos\config
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\azure-rtos\threadx\common\inc
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\azure-rtos\threadx\common\inc
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\azure-rtos\threadx\ports\cortex_m7\iar\inc
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\azure-rtos\threadx\ports\cortex_m7\iar\inc
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\component\lists
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\component\lists
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\component\serial_manager
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\component\serial_manager
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\component\uart
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\component\uart
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\device
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\device
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\drivers
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\drivers
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\utilities
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\utilities
 -I
-C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\Azure_RTOS_Demo_App\xip
+C:\Users\obed.oyandut\OneDrive - D.Med Consulting GmbH\Documents\Azure_RTOS_threadx_demo\threadx_modified\xip
 -D__CHAR_BITS__=8
 -D__CHAR_MAX__=0xff
 -D__CHAR_MIN__=0
